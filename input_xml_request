@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DTOApplication id="Application-1660258480-1493174910" ApplicationNumber="AP-00006354" Version="3.10" CustomerRef="3530" Status="In Process" TypeCd="Application" LockTaskId="ApplicationTask2001" Description="Rewrite-New Application for CNPK00000011-02" SystemId="9743" ReadyToRateInd="Yes">
+    <QuestionReplies id="QuestionReplies-1553101003-1178947042" QuestionSourceMDA="CustUWProduct::product-master::dorchester-CO-CannasurePackageNA-v01-00-00:://ProductSetup[@id='ProductSetup']">
+        <QuestionReply id="QuestionReply-859195405-1832325773" Name="1000" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-1656171536-493197768" Name="1000A" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-479386697-1239680556" Name="1000B" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-317220012-603067616" Name="1000C" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-688448579-1077170728" Name="1000D" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-296256390-583979079" Name="1000E" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-1284117153-776846346" Name="1000E1" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-2066525942-800326972" Name="1010" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-859247985-1884902129" Name="1010A" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-1847331090-1636723720" Name="1010B" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-1788441045-1349347501" Name="1010C" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-1580707627-1280009929" Name="1030" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-1845342540-1458476126" Name="1040A" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-893593439-581526032" Name="1040B" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-576635096-3210409" Name="1040B1" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-753224239-1161106497" Name="1040C" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-288965695-384509701" Name="1040D" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-274310085-2099456659" Name="1040E" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-652251572-1769752930" Name="1040F" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-887523331-1349868478" Name="1040G" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-1916407093-2038852937" Name="1040I" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-2040546538-66209995" Name="1040J" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-553889317-1797612393" Name="1040K" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-282717683-24927027" Name="1040L" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-1026736063-2110569819" Name="1040M" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-572879204-1105400784" Name="1040N" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-1761907476-1899683082" Name="1040O" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-2023566360-565824840" Name="1040O1" VisibleInd="No"/>
+        <QuestionReply id="QuestionReply-1818781272-1260205138" Name="1050" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-1517370565-894265678" Name="1060" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-439911193-950373288" Name="1070" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-1809915757-892865606" Name="1080" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-1799778739-2133483448" Name="1090" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-475217223-1769756855" Name="1100" Value="NO" VisibleInd="Yes"/>
+        <QuestionReply id="QuestionReply-829388738-479537608" Name="1110" Value="NO" VisibleInd="Yes"/>
+    </QuestionReplies>
+    <ValidationError id="ValidationError-2100494486-396182933" TypeCd="Validation" Msg="The sum of all liability exposures is greater than the Projected 12 Month Sales - " SubTypeCd="WARNING" PermanentInd="No" Link="&lt;a class='actionLink' href=javascript:cmmXFormAutoSave('UWApplicationSync','9743','Line-1653430058-429537510','Line-1653430058-429537510','CodeRefOptionsKey=application-product&amp;TabOption=GeneralLiability') &gt;Go There Now&lt;/a&gt;"/>
+    <DTOLine id="Line-101746978-972142087" StatusCd="Active" LineCd="CommercialProperty" FullTermAmt="0.00" RatingService="ManualRate" WrittenPremiumAmt="0.00" EarnedAmt="0.00" CommissionAmt="0.00" FinalPremiumAmt="0.00" TransactionCommissionAmt="262.75" LiabilityVehicleDesignationCd="1" MedPayVehicleDesignationCd="1" UMBIVehicleDesignationCd="1" ComprehensiveVehicleDesignationCd="1" CollisionVehicleDesignationCd="1" PropPolicyTypeCd="Commercial Property Policy" PropertyDeductible="2500" PersonalPropTransitLimit="5000/5000" PersonalPropTransitDeductible="2500" PropertyScheduledPremiumMod="0" TRIA="Yes" PolicyPropLocations="1" PolicyBUSPTIV="0" PolicyBldgClass="CANDIS" PolicyBldgSprinkler="Yes" PolicyBldgConstruction="FR" PolicyBldgZipCode="80003-1646" PolicyPropDeductible="2500" PolicyBUSPSeasonal="25" ExpandedProperty="Yes" SewerDischarge="Yes" WindHailDeductible="3" EquipmentBreakdownDed="2500" PropertyAuditRate="0.9029" MaxLossPropPlacement="10000000" LargePremiumDispersionPoint="1.00" IRPM="0.00" ReInsOneCovD="100%" ReInsOneCovF="100%" ReInsOneCovE="100%" ReInsOneTIV="0" EquipmentBreakdown="Yes" SelectedInd="Yes" Description="Monoline Property">
+        <DTOCoverage id="Coverage-1713637162-341585712" Status="Active" CoverageCd="MINP" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="85.50" Description="Balance to Minimum Premium - Property" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOSteps id="Steps-Coverage-1713637162-341585712">
+                <DTOStep id="Step-Coverage-1713637162-341585712-Premium" Name="Premium" Operation="=" Factor="0.00" Value="0.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-1713637162-341585712-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="342.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+        <DTORisk id="Risk-156119133-1700981150" TypeCd="General" LocationRef="Location-465697646-800339871" FullTermAmt="0.00" FinalPremiumAmt="0.00" WrittenPremiumAmt="0.00" CommissionAmt="0.00" TransactionCommissionAmt="1.00" Status="Active" Description="Location Level Coverages" RiskBeanName="Building" RiskAddDt="20211117" RiskAddPolicyVersion="1" RiskAddTransactionNo="CurrentTransaction" LocationBldgClass="CANDIS" LocationBldgYearBuilt="2015" LocationBldgZipCode="800031646" LocationTIV="10000" LocationBIEETIV="0" LocationEBBIEE="No">
+            <DTOCoverage id="Coverage-280735064-759884675" Status="Active" CoverageCd="DREM" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Debris Removal" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-844146485-2135690570" LimitCd="Limit1" Value="25000"/>
+                <DTODeductible id="Deductible-1728634422-493103015" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-280735064-759884675"/>
+            </DTOCoverage>
+            <DTOBuilding id="Building-679172571-589874984" BldgNumber="1" Status="Active" BusinessCategory="General" BusinessClass="General" LocationBldgNumber="0">
+                <Addr id="Addr-2088130652-1351059698" AddrTypeCd="RiskAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+                <Addr id="Addr-583050936-1202992207" AddrTypeCd="RiskLookupAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" PrimaryNumber="8071" StreetName="Wadsworth" Suffix="Blvd" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+            </DTOBuilding>
+            <DTOGLClass id="GLClass-1141940436-1113190155"/>
+            <DTOVehicle id="Vehicle-1334254996-352018515"/>
+            <DTOCoverage id="Coverage-708465201-341556633" Status="Active" CoverageCd="FDSC" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Fire Department Service Charge" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-683604394-1349360982" LimitCd="Limit1" Value="1000"/>
+                <DTODeductible id="Deductible-2082558734-895458918" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-708465201-341556633"/>
+            </DTOCoverage>
+            <DTOCoverage id="Coverage-1624692422-169640341" Status="Active" CoverageCd="EBRK" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="1.00" Description="Equipment Breakdown" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTODeductible id="Deductible-284384578-1187367292" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-1624692422-169640341">
+                    <DTOStep id="Step-Coverage-1624692422-169640341-Premium" Name="Premium" Operation="=" Factor="4.00" Value="4.00" Status="Cleared">
+                        <DTOSteps id="Steps-Step-Coverage-1624692422-169640341-Premium">
+                            <DTOStep id="Step-Step-Coverage-1624692422-169640341-Premium-PropertyDamage" Name="Property Damage" Operation="=" Factor="0.00" Value="4.00" Status="Cleared">
+                                <DTOSteps id="Steps-Step-Step-Coverage-1624692422-169640341-Premium-PropertyDamage">
+                                    <DTOStep id="Step-Step-Step-Coverage-1624692422-169640341-Premium-PropertyDamage-AOI" Name="AOI" Operation="=" Factor="100.00" Value="100.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1624692422-169640341-Premium-PropertyDamage-Base" Name="Base" Operation="X" Factor="0.04" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1624692422-169640341-Premium-PropertyDamage-Deductible" Name="Deductible" Operation="X" Factor="1.00" Value="4.00" Status="Cleared"/>
+                                </DTOSteps>
+                            </DTOStep>
+                            <DTOStep id="Step-Step-Coverage-1624692422-169640341-Premium-BusinessIncomeAndExtraExpense" Name="Business Income And Extra Expense" Operation="+" Factor="0.00" Value="4.00" Status="Cleared">
+                                <DTOSteps id="Steps-Step-Step-Coverage-1624692422-169640341-Premium-BusinessIncomeAndExtraExpense">
+                                    <DTOStep id="Step-Step-Step-Coverage-1624692422-169640341-Premium-BusinessIncomeAndExtraExpense-AOI" Name="AOI" Operation="=" Factor="0.00" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1624692422-169640341-Premium-BusinessIncomeAndExtraExpense-Base" Name="Base" Operation="X" Factor="0.04" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1624692422-169640341-Premium-BusinessIncomeAndExtraExpense-Deductible" Name="Deductible" Operation="X" Factor="0.89" Value="0.00" Status="Cleared"/>
+                                </DTOSteps>
+                            </DTOStep>
+                        </DTOSteps>
+                    </DTOStep>
+                    <DTOStep id="Step-Coverage-1624692422-169640341-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="4.00" Status="Cleared"/>
+                </DTOSteps>
+            </DTOCoverage>
+        </DTORisk>
+        <DTORisk id="Risk-1176242219-752803864" TypeCd="CommercialProperty" LocationRef="Location-465697646-800339871" FullTermAmt="0.00" FinalPremiumAmt="0.00" WrittenPremiumAmt="0.00" CommissionAmt="0.00" TransactionCommissionAmt="39.50" Status="Active" Description="Building" RiskBeanName="Building" RiskAddDt="20211117" RiskAddPolicyVersion="1" RiskAddTransactionNo="CurrentTransaction" IsRiskAddrChanged="No">
+            <DTOCoverage id="Coverage-1785942734-545748255" Status="Active" CoverageCd="GLSS" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Glass" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTODeductible id="Deductible-1768059847-435665159" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-1785942734-545748255"/>
+            </DTOCoverage>
+            <DTOBuilding id="Building-1597178506-765145757" BldgNumber="2" Status="Active" ConstructionCd="FR" YearBuilt="2015" BuildingCovLimit="10000" BuildingCoinsurancePct="80" BuildingDeductible="2500" BuildingClassCd="CANDIS" BusinessClassDesc="Retail sales to eligible medical customers/permit holders" BuildingClassName="Dispensary - Medical" BuildingEligibleOperation="No other qualifications" BuildingInEligibleOperation="Any retail exposures that are not solely medical use cannabis" BuildingGLClassIndustry="Cannabis" BuildingGLClassEligibility="All" PrimaryOperation="Yes" TotalArea="2400" Sprinkled="Yes" BuildingGLClassIndustryAbbr="CANN" PremiumBasis="$1,000 Sales" OrdinanceOrLawCoverageA="Not Included" BusinessIncomeMonthlyLimit="1/3" SeedlingsNumberOfPlants="100" SeedlingsPerPlantValue="75" SeedlingsCoverage="7500" SeedlingsCoverageDed="2500" BuildingCovBaseRate="1.00" BuildingCropCovBaseRate="1.00" BuildingNetRate="0.9029" LPMNetRate="0.9067" ExcludeTheftInd="No" BldgCounterNumber="1">
+                <Addr id="Addr-190851669-1348850945" AddrTypeCd="RiskAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+                <Addr id="Addr-386251477-1669234034" AddrTypeCd="RiskLookupAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" PrimaryNumber="8071" StreetName="Wadsworth" Suffix="Blvd" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+            </DTOBuilding>
+            <DTOGLClass id="GLClass-1766248906-393600062">
+                <Addr id="Addr-756817687-1033466411" AddrTypeCd="ExposureAddr"/>
+            </DTOGLClass>
+            <DTOVehicle id="Vehicle-1653484755-1537448080">
+                <Addr id="Addr-369803348-1618276500" AddrTypeCd="VehicleGarageAddr" City="Arvada" StateProvCd="CO" PostalCode="80003-1646"/>
+            </DTOVehicle>
+            <DTOCoverage id="Coverage-142729471-1765013127" Status="Active" CoverageCd="GLEX" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Glass Expenses" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTODeductible id="Deductible-1302873383-1244250741" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-142729471-1765013127"/>
+            </DTOCoverage>
+            <DTOCoverage id="Coverage-1933500134-172062011" Status="Active" CoverageCd="INCC" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Increased Cost of Construction" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-251602028-196285115" LimitCd="Limit1" Value="Lesser of $10,000 and 5% building at each building"/>
+                <DTODeductible id="Deductible-1925925852-1931612179" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-1933500134-172062011"/>
+            </DTOCoverage>
+            <DTOCoverage id="Coverage-76125791-1057052207" Status="Active" CoverageCd="NAQB" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Newly Acquired/Constructed Property - Buildings" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-1547725652-347289069" LimitCd="Limit1" Value="$250,000 at each new building"/>
+                <DTODeductible id="Deductible-1613683798-1428901458" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-76125791-1057052207"/>
+            </DTOCoverage>
+            <DTOCoverage id="Coverage-175015272-296052032" Status="Active" CoverageCd="NAQP" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Newly Acquired/Constructed Property - Business Personal Property" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-510914808-1623749531" LimitCd="Limit1" Value="$100,000 at each new building"/>
+                <DTODeductible id="Deductible-425902442-592918627" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-175015272-296052032"/>
+            </DTOCoverage>
+            <DTOCoverage id="Coverage-572717249-238283636" Status="Active" CoverageCd="CSWD" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Completed Stock - While on Display" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-339562225-560748615" LimitCd="Limit1" Value="25 Percent"/>
+                <DTODeductible id="Deductible-143507300-435461450" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-572717249-238283636"/>
+            </DTOCoverage>
+            <DTOCoverage id="Coverage-1732252227-1094594034" Status="Active" CoverageCd="BLDG" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="22.50" Description="Building" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-2090726994-464007560" LimitCd="Limit1" Value="10000"/>
+                <DTODeductible id="Deductible-1372306385-1630166439" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-1732252227-1094594034">
+                    <DTOStep id="Step-Coverage-1732252227-1094594034-AOI100s" Name="AOI 100s" Operation="=" Factor="100.00" Value="100.00" Status="Cleared"/>
+                    <DTOStep id="Step-Coverage-1732252227-1094594034-NetRate" Name="Net Rate" Operation="X" Factor="0.90" Value="90.00" Status="Cleared">
+                        <DTOSteps id="Steps-Step-Coverage-1732252227-1094594034-NetRate">
+                            <DTOStep id="Step-Step-Coverage-1732252227-1094594034-NetRate-BaseRate" Name="Base Rate" Operation="=" Factor="1.00" Value="1.00" Status="Cleared"/>
+                            <DTOStep id="Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod" Name="Total Mod" Operation="X" Factor="0.90" Value="0.90" Status="Cleared">
+                                <DTOSteps id="Steps-Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod">
+                                    <DTOStep id="Step-Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod-Territory" Name="Territory" Operation="=" Factor="1.00" Value="1.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod-Prot-Cons" Name="Prot-Cons" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod-Coinsurance" Name="Coinsurance" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod-Deductible" Name="Deductible" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod-Sprinkler" Name="Sprinkler" Operation="X" Factor="0.90" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod-Dispersion" Name="Dispersion" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod-LargePremiumDiscountPlan" Name="Large Premium Discount Plan" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-1732252227-1094594034-NetRate-TotalMod-IRPM" Name="IRPM" Operation="X" Factor="1.00" Value="0.90" Status="Cleared"/>
+                                </DTOSteps>
+                            </DTOStep>
+                        </DTOSteps>
+                    </DTOStep>
+                    <DTOStep id="Step-Coverage-1732252227-1094594034-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="90.00" Status="Cleared"/>
+                </DTOSteps>
+            </DTOCoverage>
+            <DTOCoverage id="Coverage-1914046646-611414242" Status="Deleted" CoverageCd="BOLA" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Building Ordinance or Law - Coverage A" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-386254510-1427386176" LimitCd="Limit1" Value="Not Included"/>
+                <DTODeductible id="Deductible-1066303172-274202551" DeductibleCd="Deductible1" Value="2500"/>
+            </DTOCoverage>
+            <DTOCoverage id="Coverage-694053797-292557507" Status="Active" CoverageCd="LPMI" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="17.00" Description="Living Plant Material - Immature Seedling" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-1056304413-1689041445" LimitCd="Limit1" Value="7500"/>
+                <DTODeductible id="Deductible-418097766-152851890" DeductibleCd="Deductible1" Value="2500"/>
+                <DTOSteps id="Steps-Coverage-694053797-292557507">
+                    <DTOStep id="Step-Coverage-694053797-292557507-AOI100s" Name="AOI 100s" Operation="=" Factor="75.00" Value="75.00" Status="Cleared"/>
+                    <DTOStep id="Step-Coverage-694053797-292557507-NetRate" Name="Net Rate" Operation="X" Factor="0.90" Value="68.00" Status="Cleared">
+                        <DTOSteps id="Steps-Step-Coverage-694053797-292557507-NetRate">
+                            <DTOStep id="Step-Step-Coverage-694053797-292557507-NetRate-BaseRate" Name="Base Rate" Operation="=" Factor="1.00" Value="1.00" Status="Cleared"/>
+                            <DTOStep id="Step-Step-Coverage-694053797-292557507-NetRate-TotalMod" Name="Total Mod" Operation="=" Factor="0.90" Value="0.90" Status="Cleared">
+                                <DTOSteps id="Steps-Step-Step-Coverage-694053797-292557507-NetRate-TotalMod">
+                                    <DTOStep id="Step-Step-Step-Coverage-694053797-292557507-NetRate-TotalMod-Territory" Name="Territory" Operation="=" Factor="1.00" Value="1.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-694053797-292557507-NetRate-TotalMod-Prot-Cons" Name="Prot-Cons" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-694053797-292557507-NetRate-TotalMod-Deductible" Name="Deductible" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-694053797-292557507-NetRate-TotalMod-Sprinkler" Name="Sprinkler" Operation="X" Factor="0.90" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-694053797-292557507-NetRate-TotalMod-Theft" Name="Theft" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                                    <DTOStep id="Step-Step-Step-Coverage-694053797-292557507-NetRate-TotalMod-IRPM" Name="IRPM" Operation="X" Factor="1.00" Value="0.90" Status="Cleared"/>
+                                </DTOSteps>
+                            </DTOStep>
+                        </DTOSteps>
+                    </DTOStep>
+                    <DTOStep id="Step-Coverage-694053797-292557507-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="68.00" Status="Cleared"/>
+                </DTOSteps>
+            </DTOCoverage>
+        </DTORisk>
+        <DTOCoverage id="Coverage-823696723-1108661359" Status="Active" CoverageCd="BUSU" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Business Personal Property Temporarily in Portable Storage Units" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-927221426-1120118540" LimitCd="Limit1" Value="10000"/>
+            <DTODeductible id="Deductible-727834096-1337119583" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-823696723-1108661359"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1515613645-542742863" Status="Active" CoverageCd="NODT" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Non-Owned Detached Trailers" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-2032705072-284798173" LimitCd="Limit1" Value="5000"/>
+            <DTODeductible id="Deductible-122561716-1798391539" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-1515613645-542742863"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1456835771-2106241962" Status="Active" CoverageCd="POLC" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Pollutant Clean-Up And Removal Aggregate" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-476935222-1713869652" LimitCd="Limit1" Value="10000"/>
+            <DTODeductible id="Deductible-1466886901-2144408657" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-1456835771-2106241962"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-141165401-1913974213" Status="Active" CoverageCd="EDAT" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Electronic Data Aggregate" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-84937802-1572386682" LimitCd="Limit1" Value="2500"/>
+            <DTODeductible id="Deductible-1667908858-918939543" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-141165401-1913974213"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-858967897-450195753" Status="Active" CoverageCd="WDLM" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Water Damage, Other Liquids or Molten Material Damage" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTODeductible id="Deductible-53859515-643341187" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-858967897-450195753"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1082061511-1554914653" Status="Active" CoverageCd="TRIAP" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="6.50" Description="TRIA - Property" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOSteps id="Steps-Coverage-1082061511-1554914653">
+                <DTOStep id="Step-Coverage-1082061511-1554914653-Premium" Name="Premium" Operation="=" Factor="26.00" Value="26.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-1082061511-1554914653-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="26.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1053295048-1679263657" Status="Active" CoverageCd="OTPR" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Outdoor Property " PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1224682115-910664725" LimitCd="Limit1" Value="$5000 ($500 per plant)"/>
+            <DTODeductible id="Deductible-113266949-1588765883" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-1053295048-1679263657"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1873290972-1611169236" Status="Active" CoverageCd="PEFF" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Personal Effects" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-735349266-90490738" LimitCd="Limit1" Value="25000"/>
+            <DTODeductible id="Deductible-1139266094-1621291355" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-1873290972-1611169236"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1864983367-828287889" Status="Active" CoverageCd="PPOP" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Personal Property Off Premises" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1174514888-1645661204" LimitCd="Limit1" Value="15000"/>
+            <DTODeductible id="Deductible-93355919-1096179343" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-1864983367-828287889"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-175820161-1479714533" Status="Active" CoverageCd="VLPR" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Valuable Papers And Records" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-736311626-2007629682" LimitCd="Limit1" Value="25000"/>
+            <DTODeductible id="Deductible-1876720199-580189399" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-175820161-1479714533"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-269465766-610786979" Status="Active" CoverageCd="PRIT" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Property In Transit" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-563150012-1287109280" LimitCd="Limit1" Value="5000"/>
+            <DTODeductible id="Deductible-1949340239-86201555" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-269465766-610786979"/>
+            <DTOLimit id="Limit-1223408843-1390670259" LimitCd="Limit2" Value="5000"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-363950711-927328522" Status="Active" CoverageCd="AREC" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Accounts Receivable" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-160296851-389092895" LimitCd="Limit1" Value="25000"/>
+            <DTODeductible id="Deductible-277151075-135351232" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-363950711-927328522"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1845943334-1178610354" Status="Active" CoverageCd="ARSN" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Arson Reward" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1141716721-481437114" LimitCd="Limit1" Value="5000"/>
+            <DTOSteps id="Steps-Coverage-1845943334-1178610354"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-678352957-1118530432" Status="Active" CoverageCd="EDPE" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Electronic Data Processing Equipment" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1329142170-289972080" LimitCd="Limit1" Value="$5,000 software"/>
+            <DTODeductible id="Deductible-66396502-1444121927" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-678352957-1118530432"/>
+            <DTOLimit id="Limit-493458115-67575173" LimitCd="Limit2" Value="$25,000 aggregate"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-121500364-297747745" Status="Active" CoverageCd="EDIS" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Employee Dishonesty" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1527548900-869247451" LimitCd="Limit1" Value="15000"/>
+            <DTODeductible id="Deductible-1496012253-844531092" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-121500364-297747745"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-230321041-1081326226" Status="Active" CoverageCd="EXEN" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="62.50" Description="Expanded Property Endorsement" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1147493264-921479421" LimitCd="Limit1" TypeCd="Limit1"/>
+            <DTODeductible id="Deductible-1175452973-406315166" DeductibleCd="Deductible1" TypeCd="Amount" Value="N/A"/>
+            <DTOSteps id="Steps-Coverage-230321041-1081326226">
+                <DTOStep id="Step-Coverage-230321041-1081326226-Premium" Name="Premium" Operation="=" Factor="250.00" Value="250.00" Status="Cleared">
+                    <DTOSteps id="Steps-Step-Coverage-230321041-1081326226-Premium">
+                        <DTOStep id="Step-Step-Coverage-230321041-1081326226-Premium-FirstLocation" Name="First Location" Operation="=" Factor="250.00" Value="250.00" Status="Cleared"/>
+                        <DTOStep id="Step-Step-Coverage-230321041-1081326226-Premium-AdditionalLocations" Name="Additional Locations" Operation="+" Factor="0.00" Value="250.00" Status="Cleared">
+                            <DTOSteps id="Steps-Step-Step-Coverage-230321041-1081326226-Premium-AdditionalLocations">
+                                <DTOStep id="Step-Step-Step-Coverage-230321041-1081326226-Premium-AdditionalLocations-AdditionalLocationCount" Name="Additional Location Count" Operation="=" Factor="0.00" Value="0.00" Status="Cleared"/>
+                                <DTOStep id="Step-Step-Step-Coverage-230321041-1081326226-Premium-AdditionalLocations-PerLocation" Name="Per Location" Operation="X" Factor="50.00" Value="0.00" Status="Cleared"/>
+                            </DTOSteps>
+                        </DTOStep>
+                    </DTOSteps>
+                </DTOStep>
+                <DTOStep id="Step-Coverage-230321041-1081326226-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="250.00" Status="Cleared"/>
+            </DTOSteps>
+            <DTOLimit id="Limit-1964179340-727172794" LimitCd="Limit3" TypeCd="AREC On Premises" Value="25000"/>
+            <DTOLimit id="Limit-1157673371-376984198" LimitCd="Limit4" TypeCd="AREC Off Premises"/>
+            <DTOLimit id="Limit-1953771866-1627605880" LimitCd="Limit5" TypeCd="ARSN" Value="5000"/>
+            <DTOLimit id="Limit-567255722-1970743415" LimitCd="Limit6" TypeCd="EDPE" Value="$5,000 software"/>
+            <DTOLimit id="Limit-542914914-1535114906" LimitCd="Limit7" TypeCd="EDIS" Value="15000"/>
+            <DTOLimit id="Limit-133811629-1258387893" LimitCd="Limit8" TypeCd="FERE" Value="1000"/>
+            <DTOLimit id="Limit-181915294-779643504" LimitCd="Limit9" TypeCd="LOCK" Value="1000"/>
+            <DTOLimit id="Limit-1738890935-657018663" LimitCd="Limit10" TypeCd="MASI" Value="10000"/>
+            <DTOLimit id="Limit-322885218-2130183583" LimitCd="Limit11" TypeCd="MASO" Value="10000"/>
+            <DTOLimit id="Limit-870693905-1591254333" LimitCd="Limit12" TypeCd="OSGN" Value="10000"/>
+            <DTOLimit id="Limit-993058114-89846598" LimitCd="Limit13" TypeCd="PROO" Value="$1,000 per occurrence"/>
+            <DTOLimit id="Limit-457298632-32146920" LimitCd="Limit14" TypeCd="TEBL Blanket" Value="15000"/>
+            <DTOLimit id="Limit-1015911002-1847559758" LimitCd="Limit15" TypeCd="TEBL Each Item" Value="$1,000 per item"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-2004433134-333237585" Status="Active" CoverageCd="FERE" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Fire Extinguisher Systems Recharge Expense" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-877198500-172493963" LimitCd="Limit1" Value="1000"/>
+            <DTOSteps id="Steps-Coverage-2004433134-333237585"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1025585160-993836252" Status="Active" CoverageCd="LOCK" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Lock &amp; Key Replacement" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1910166372-1171196967" LimitCd="Limit1" Value="1000"/>
+            <DTOSteps id="Steps-Coverage-1025585160-993836252"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-458639154-1647606005" Status="Active" CoverageCd="MASI" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Money And Securities - Inside the Premises" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1596456608-1994476961" LimitCd="Limit1" Value="10000"/>
+            <DTODeductible id="Deductible-636917159-1682223676" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-458639154-1647606005"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-83268330-1766634122" Status="Active" CoverageCd="MASO" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Money And Securities - Outside the Premises" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-685258957-403283710" LimitCd="Limit1" Value="10000"/>
+            <DTODeductible id="Deductible-1385761972-1582120079" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-83268330-1766634122"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-934967771-2046206934" Status="Active" CoverageCd="OSGN" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Outdoor Signs" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1315459363-712547732" LimitCd="Limit1" Value="10000"/>
+            <DTODeductible id="Deductible-1324481144-39127139" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-934967771-2046206934"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-238592067-555818103" Status="Active" CoverageCd="PROO" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Property of Others Off Premises" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-194846240-1089244584" LimitCd="Limit1" Value="$1,000 per occurrence"/>
+            <DTODeductible id="Deductible-2063333176-1591653378" DeductibleCd="Deductible1" Value="250"/>
+            <DTOSteps id="Steps-Coverage-238592067-555818103"/>
+            <DTOLimit id="Limit-807397096-435455544" LimitCd="Limit2" Value="$10,000 aggregate"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-288956823-161923145" Status="Active" CoverageCd="TEBL" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Tools and Equipment - Blanket" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-586357723-2048832395" LimitCd="Limit1" Value="15000"/>
+            <DTODeductible id="Deductible-1593114364-1366920258" DeductibleCd="Deductible1" Value="1000"/>
+            <DTOSteps id="Steps-Coverage-288956823-161923145"/>
+            <DTOLimit id="Limit-1542994902-1684216936" LimitCd="Limit2" Value="$1,000 per item"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1271216944-1313076601" Status="Active" CoverageCd="DSSS" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="62.50" Description="Discharge from Sewer, Drain or Sump - Direct" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1397062511-826005132" LimitCd="Limit1" Value="25000"/>
+            <DTODeductible id="Deductible-1233753305-405821612" DeductibleCd="Deductible1" Value="2500"/>
+            <DTOSteps id="Steps-Coverage-1271216944-1313076601">
+                <DTOStep id="Step-Coverage-1271216944-1313076601-Premium" Name="Premium" Operation="=" Factor="250.00" Value="250.00" Status="Cleared">
+                    <DTOSteps id="Steps-Step-Coverage-1271216944-1313076601-Premium">
+                        <DTOStep id="Step-Step-Coverage-1271216944-1313076601-Premium-FirstLocation" Name="First Location" Operation="=" Factor="250.00" Value="250.00" Status="Cleared"/>
+                        <DTOStep id="Step-Step-Coverage-1271216944-1313076601-Premium-AdditionalLocations" Name="Additional Locations" Operation="+" Factor="0.00" Value="250.00" Status="Cleared">
+                            <DTOSteps id="Steps-Step-Step-Coverage-1271216944-1313076601-Premium-AdditionalLocations">
+                                <DTOStep id="Step-Step-Step-Coverage-1271216944-1313076601-Premium-AdditionalLocations-AdditionalLocationCount" Name="Additional Location Count" Operation="=" Factor="0.00" Value="0.00" Status="Cleared"/>
+                                <DTOStep id="Step-Step-Step-Coverage-1271216944-1313076601-Premium-AdditionalLocations-PerLocation" Name="Per Location" Operation="X" Factor="50.00" Value="0.00" Status="Cleared"/>
+                            </DTOSteps>
+                        </DTOStep>
+                    </DTOSteps>
+                </DTOStep>
+                <DTOStep id="Step-Coverage-1271216944-1313076601-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="250.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-2069749463-2114095440" Status="Active" CoverageCd="MINEQ" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="5.25" Description="Balance to Minimum Premium - Equipment Breakdown" RateDRCCoverageInd="Yes">
+            <DTOSteps id="Steps-Coverage-2069749463-2114095440">
+                <DTOStep id="Step-Coverage-2069749463-2114095440-Premium" Name="Premium" Operation="=" Factor="21.00" Value="21.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-2069749463-2114095440-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="21.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+    </DTOLine>
+    <DTOLocation id="Location-465697646-800339871" LocationNumber="1" Status="Active" LocationDesc="Location" LocationBldgNumber="1" Inspection="Yes" LocationNetRate="0.9029" LocationCounterNumber="1">
+        <DTOLocationDetail id="LocationDetail-446088147-1472104283" DetailTypeCd="ProtectionClassLocationDetail"/>
+        <DTOLocationRiskGroup id="LocationRiskGroup-317729208-401255605" RiskGroupCd="ReinsuranceGroup"/>
+        <Addr id="Addr-654836036-1872576587" AddrTypeCd="LocationAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+        <Addr id="Addr-2073287773-1964315775" AddrTypeCd="LocationLookupAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" PrimaryNumber="8071" StreetName="Wadsworth" Suffix="Blvd" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+        <DTOLocationRiskGroup id="LocationRiskGroup-1920924449-798339069" RiskGroupCd="BuildingGroup"/>
+        <DTOLocationRiskGroup id="LocationRiskGroup-1018953310-2130076280" RiskGroupCd="ContentsGroup"/>
+        <DTOLocationRiskGroup id="LocationRiskGroup-2077505908-2042399668" RiskGroupCd="IncomeGroup"/>
+        <DTOLocationDetail id="LocationDetail-234560321-277332065" DetailTypeCd="CAutoLocationDetail"/>
+        <DTOLocationDetail id="LocationDetail-1017319929-520412521" DetailTypeCd="CommercialPropertyLocationDetail" ProtectionClassCd="3" OilExtractionDoneInd="Yes"/>
+    </DTOLocation>
+    <DTOForm id="Form-1608823615-1969180439" Status="Attached" Name="CISFORMS1017" FormNum="CIS FORMS" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001040" FillinInd="No" ProductFormIdRef="CISFORMS1017" DisplayDesc="FORMS AND ENDORSEMENTS THAT APPLY TO THIS POLICY" DeclarationFormListName="FORMS AND ENDORSEMENTS THAT APPLY TO THIS POLICY"/>
+    <DTOApplicationInfo id="ApplicationInfo-970644201-892504916" FirstMailedDt="20211117" LastMailedDt="20211119" AddDt="20211117" AddTm="16:13:48 PST" AddUser="rraju" UpdateDt="20211207" UpdateTm="15:56:09 PST" UpdateUser="rraju"/>
+    <DTOFee id="Fee-1254765392-949531393" CategoryCd="POLF" TypeCd="Fee" Description="Policy Fee" FullTermAmt="0.00" WrittenAmt="0.00" FinalAmt="0.00" CommissionPct="100.00" ContributionPct="0.00" CommissionAmt="0.00" PrevFinalAmt="0.00" PrevWrittenAmt="0.00" TransactionCommissionAmt="1250.00" Status="Active" BillingCategoryCd="POLF" ShortRateAmt="0.00" RateDRCFeeInd="Yes">
+        <DTOSteps id="Steps-Fee-1254765392-949531393">
+            <DTOStep id="Step-Fee-1254765392-949531393-PolicyFee" Name="Policy Fee" Operation="=" Factor="1250.00" Value="1250.00" Status="Cleared"/>
+        </DTOSteps>
+    </DTOFee>
+    <DTOTransactionInfo id="TransactionHistory-998227005-1620627205" TransactionCd="Rewrite-New" TransactionEffectiveDt="20211117" TransactionEffectiveTm="12:01am" TransactionUser="rraju" TransactionDt="20211117" TransactionTm="16:13:48 PST" TransactionShortDescription="Rewrite - New Business" TransactionNumber="1" RewriteToProductVersion="dorchester-CO-CannasurePackageNA-v01-00-02" BookDt="20210531" MasterTransactionNumber="1" SourceCd="Innovation" DelayInvoiceInd="false" PrevStatusCd="Active">
+        <ElectronicPaymentSource id="ElectronicPaymentSource-1641343196-2110308560" SourceTypeCd="PremiumSource"/>
+    </DTOTransactionInfo>
+    <DTORiskGroup id="RiskGroup-355058114-1603571458" GroupNumber="1" Description="Per Policy Blanket" GroupType="Blanket" Status="Active"/>
+    <DTOInsured id="Insured-1143698400-1125409120" IndexName="Test cann forms-package" EntityTypeCd="Corporation">
+        <PartyInfo id="PartyInfo-15407862-661260557" PartyTypeCd="InsuredParty" ContactName="testform">
+            <PersonInfo id="PersonInfo-1093350294-1814298042" PersonTypeCd="InsuredPersonal"/>
+            <EmailInfo id="EmailInfo-1037659577-833638921" EmailTypeCd="InsuredEmail" PreferredInd="No"/>
+            <TaxInfo id="TaxInfo-14302769-2005892422" TaxTypeCd="InsuredTaxInfo"/>
+            <PhoneInfo id="PhoneInfo-698314794-1512216206" PhoneTypeCd="InsuredPhonePrimary" PhoneNumber="(669) 887-8784" PreferredInd="No" PhoneName="Mobile"/>
+            <NameInfo id="NameInfo-943835763-1488888698" NameTypeCd="InsuredName" CommercialName="Test cann forms-package"/>
+            <Addr id="Addr-726224372-698501823" AddrTypeCd="InsuredPrimaryBusAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" PrimaryNumber="8071" StreetName="Wadsworth" Suffix="Blvd" VerificationHash="8071 WADSWORTH BLVD 8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+            <PhoneInfo id="PhoneInfo-752913622-536064857" PhoneTypeCd="InsuredPhoneSecondary" PreferredInd="No"/>
+            <PhoneInfo id="PhoneInfo-1296010925-65529698" PhoneTypeCd="InsuredFax" PreferredInd="No"/>
+            <Addr id="Addr-416932800-616155982" AddrTypeCd="InsuredMailingAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003" RegionCd="United States" RegionISOCd="US"/>
+            <Addr id="Addr-1165890752-2125617506" AddrTypeCd="InsuredBillingAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003" RegionCd="United States" RegionISOCd="US"/>
+            <Addr id="Addr-698512023-1126907734" AddrTypeCd="InsuredPriorAddr"/>
+            <Addr id="Addr-1984359399-450090244" AddrTypeCd="InsuredLookupAddr"/>
+        </PartyInfo>
+        <InsuranceScore id="InsuranceScore-1553464145-970330087" InsuranceScoreTypeCd="InsuredInsuranceScore"/>
+        <PartyInfo id="PartyInfo-543111683-974414033" PartyTypeCd="InsuredPartyJoint">
+            <PersonInfo id="PersonInfo-644194040-1064198157" PersonTypeCd="InsuredPersonalJoint"/>
+            <TaxInfo id="TaxInfo-558973890-1197854979" TaxTypeCd="InsuredTaxInfoJoint"/>
+            <NameInfo id="NameInfo-2068626855-2134060095" NameTypeCd="InsuredNameJoint"/>
+        </PartyInfo>
+        <PartyInfo id="PartyInfo-1308427593-31423219" PartyTypeCd="InsuredPartyTrust">
+            <TaxInfo id="TaxInfo-716928601-1136609220" TaxTypeCd="InsuredTaxInfoTrust"/>
+        </PartyInfo>
+        <PartyInfo id="PartyInfo-1716377015-473903983" PartyTypeCd="InsuredPartyEstate">
+            <TaxInfo id="TaxInfo-1833404175-1417636868" TaxTypeCd="InsuredTaxInfoEstate"/>
+        </PartyInfo>
+    </DTOInsured>
+    <Output id="Output-978814583-1924343183" DocumentType="Output" OutputTemplateIdRef="New Business Declaration Cannasure" AddUser="System" Status="Transaction">
+        <Tag id="Tag-1654647216-107600058" Name="Output" TagTemplateIdRef="Output"/>
+        <OutputItem id="OutputItem-1582419197-1588490823" IncludeInd="Yes" ItemName="Producer New Business Package" ItemDescription="Producer New Business Package" Name="Producer" FormCd="Full Declaration" DeliveryCd="LocalPrinter" DefaultInd="Yes" MailProofCd="None" CoversheetFormTemplateIdRef="Coversheet" OutputTemplateRecipientIdRef="ProducerNewBusinessPackage" DocumentTypeCd="New Business Package">
+            <PartyInfo id="PartyInfo-1705577796-902759208" PartyTypeCd="OutputProviderParty" Code="9191-929-9115">
+                <EmailInfo id="EmailInfo-417019046-902451632" EmailTypeCd="OutputProviderEmail" PreferredInd="No"/>
+                <TaxInfo id="TaxInfo-413444448-1438596895" TaxTypeCd="OutputProviderTaxInfo" LegalEntityCd="LLC"/>
+                <PhoneInfo id="PhoneInfo-343957258-1931533307" PhoneTypeCd="OutputProviderPrimaryPhone" PreferredInd="No"/>
+                <NameInfo id="NameInfo-1324520278-1654200912" NameTypeCd="OutputProviderName" CommercialName="Cann UW3"/>
+                <Addr id="Addr-1953980678-33391472" AddrTypeCd="OutputProviderMailingAddr"/>
+                <PhoneInfo id="PhoneInfo-1531959354-1907229337" PhoneTypeCd="OutputProviderSecondaryPhone" PreferredInd="No"/>
+                <PhoneInfo id="PhoneInfo-1050555131-1393934427" PhoneTypeCd="OutputProviderFax" PreferredInd="No"/>
+                <Addr id="Addr-1992186891-2005217935" AddrTypeCd="OutputProviderBillingAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+                <Addr id="Addr-952360814-1168758581" AddrTypeCd="OutputProviderStreetAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+            </PartyInfo>
+        </OutputItem>
+        <Tag id="Tag-142918299-664287581" Name="Declaration" TagTemplateIdRef="Declaration"/>
+    </Output>
+    <DTOBasicPolicy id="BasicPolicy-2109733721-1877805751" PolicyDisplayNumber="CNPK00000011-02" PolicyNumber="CNPK00000011" StatusCd="Active" CarrierGroupCd="DIC" CarrierCd="DIC" ControllingStateCd="CO" TransactionCd="Rewrite-New" InceptionDt="20211117" InceptionTm="12:01am" EffectiveDt="20211117" EffectiveTm="12:01am" ExpirationDt="20221117" RatedInd="Yes" ProviderRef="3438" SubProducerCd="test" UnderwriterCd="dpavlov" Commission="25.00" PayPlanCd="Agent Bill Full Pay Cannasure" PolicyVersion="1" TransactionNumber="1" TransactionStatus="Pending" TransactionCommissionAmt="20469.95" RenewalTermCd="1 Year" RewriteFromPolicyRef="504" ExpiringPremiumAmt="2265.65" ExpiringFeeAmt="507.00" ProductVersionIdRef="dorchester-CO-CannasurePackageNA-v01-00-02" FullTermAmt="67865.00" CommissionAmt="0.00" WrittenPremiumAmt="67865.00" FinalPremiumAmt="67865.00" SubTypeCd="CNPK" Description="Cannasure Package (non-admitted)" ManualRenewalInd="Yes" WrittenFeeAmt="3503.70" WrittenCommissionFeeAmt="3503.70" BusinessEstDt="20100202" YearExperience="5" NoOfFullTimeEmplyees="5" PolicyType="CNPK" PremiumBasis="$1,000 Sales" InspectionLocations="1" Previous12MonthSales="5000" Previous12MonthPayroll="5000" Projected12MonthSales="5000" Projected12MonthPayroll="1200" ProjectedSquareFootage="0" PolicyGLClassIndustryAbbr="CANN" ProductUseMedicinal="Yes" SubProducerCommissionPct="11" PolicyGLClassCode="CANDIS" PolicyGLClassDesc="Retail sales to eligible medical customers/permit holders" PolicyGLClassIndustry="Cannabis" PolicyGLClassEligibility="All" PolicyClassName="Dispensary - Medical" PolicyEligibleOperation="No other qualifications" PolicyInEligibleOperation="Any retail exposures that are not solely medical use cannabis">
+        <ElectronicPaymentSource id="ElectronicPaymentSource-629714148-154282147" SourceTypeCd="InstallmentSource"/>
+        <DTOCommissionArea id="CommissionArea-293840360-1847854193" CommissionAreaCd="Package" CommissionPct="25.00" ContributionPct="0.00" PrevContributionPct="0.00" FinalCommissionPct="25.00" PrevFinalCommissionPct="25.00" FinalPremiumAmt="67865.00" FullTermAmt="67865.00" CommissionAmt="0.00" TransactionCommissionAmt="16966.25" FinalFeeAmt="0.00" FullTermFeeAmt="0.00"/>
+        <DTOCommissionArea id="CommissionArea-927924971-198418882" CommissionAreaCd="POLF" CommissionPct="100.00" ContributionPct="0.00" FinalCommissionPct="100.00" FinalPremiumAmt="0.00" FullTermAmt="0.00" CommissionAmt="0.00" TransactionCommissionAmt="1250.00" FinalFeeAmt="1250.00" FullTermFeeAmt="1250.00"/>
+        <DTOCommissionArea id="CommissionArea-177188004-706892535" CommissionAreaCd="InspectionFee" CommissionPct="100.00" ContributionPct="0.00" FinalCommissionPct="100.00" FinalPremiumAmt="0.00" FullTermAmt="0.00" CommissionAmt="0.00" TransactionCommissionAmt="175.00" FinalFeeAmt="175.00" FullTermFeeAmt="175.00"/>
+        <DTOCommissionArea id="CommissionArea-422600297-2094193943" CommissionAreaCd="SLT" CommissionPct="100.00" ContributionPct="0.00" FinalCommissionPct="100.00" FinalPremiumAmt="0.00" FullTermAmt="0.00" CommissionAmt="0.00" TransactionCommissionAmt="2078.70" FinalFeeAmt="2078.70" FullTermFeeAmt="2078.70"/>
+    </DTOBasicPolicy>
+    <DTOTabsVisited id="TabsVisited-1378628840-8904025">
+        <DTOTabVisited id="TabVisited-512909647-1779217112" TabName="Policy" VisitedOnApplicationInd="true"/>
+        <DTOTabVisited id="TabVisited-620784910-1783492003" TabName="Property" VisitedOnApplicationInd="true"/>
+        <DTOTabVisited id="TabVisited-894468774-1623033655" TabName="Closeout" VisitedOnApplicationInd="true"/>
+        <DTOTabVisited id="TabVisited-2028679927-2123921942" TabName="GeneralLiability" VisitedOnApplicationInd="true"/>
+    </DTOTabsVisited>
+    <DTOTOPADRCAttributes id="TOPADRCAttributes-1870460837-575216151" PolicyAccountCharacter="0" PolicyIRPMFactor="0" PolicyLossExpFactor="0" PolicyMultiDiscFactor="0" PropPackDiscFactor="0" LiabPackDiscFactor="0" RateTRIAInd="No"/>
+    <DTOLine id="Line-1653430058-429537510" StatusCd="Active" LineCd="Liability" FullTermAmt="0.00" RatingService="ManualRate" WrittenPremiumAmt="0.00" EarnedAmt="0.00" CommissionAmt="0.00" FinalPremiumAmt="0.00" TransactionCommissionAmt="16703.50" GLOccurrenceLimit="1000000/2000000" MedicalExpensesLimit="10000" EmployeeBenefitsLimit="1000000" LiabilityVehicleDesignationCd="1" MedPayVehicleDesignationCd="1" UMBIVehicleDesignationCd="1" ComprehensiveVehicleDesignationCd="1" CollisionVehicleDesignationCd="1" GLAggregateLocationLimit="Yes" PropertyScheduledPremiumMod="2" TRIA="Yes" PolicyLiabLocations="1" GLAssaultAndBattery="100000/200000" GLHiredAndNonOwnedAuto="1000000" EmployeeBenefitsLimitDed="500/Employee" EmployeeBenefitsRetroDt="20210105" WaiverTransferRights="Yes" GLAuditRate="27.579" LargePremiumDispersionPoint="1.00" CyberLiabilityCoverage="Yes" CyberLiabilityRetroDt="20211117" IRPM="0.00" ReInsOneCovD="100%" ReInsOneCovF="100%" ReInsOneCovE="100%" ReInsOneTIV="0" SelectedInd="Yes" Description="Monoline General Liability" DmgToRentedPremisesLimit="500000">
+        <DTOCoverage id="Coverage-412146825-1544618493" Status="Active" CoverageCd="MINL" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Balance to Minimum Premium - Liability" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOSteps id="Steps-Coverage-412146825-1544618493">
+                <DTOStep id="Step-Coverage-412146825-1544618493-Premium" Name="Premium" Operation="=" Factor="0.00" Value="0.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-412146825-1544618493-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+        <DTORisk id="Risk-1296379588-1802098261" TypeCd="Exposure" LocationRef="Location-465697646-800339871" FullTermAmt="0.00" FinalPremiumAmt="0.00" WrittenPremiumAmt="0.00" CommissionAmt="0.00" TransactionCommissionAmt="13789.25" Status="Active" RiskBeanName="GLClass" RiskAddDt="20211117" RiskAddPolicyVersion="1" RiskAddTransactionNo="CurrentTransaction">
+            <DTOCoverage id="Coverage-1087430184-136000484" Status="Active" CoverageCd="LIAB" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="13789.25" Description="General Liability" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+                <DTOLimit id="Limit-1639211954-659804210" LimitCd="Limit1" TypeCd="Bodily Injury" Value="1000000"/>
+                <DTODeductible id="Deductible-149758561-822522126" DeductibleCd="Deductible1" TypeCd="Amount" Value="1000"/>
+                <DTOSteps id="Steps-Coverage-1087430184-136000484">
+                    <DTOStep id="Step-Coverage-1087430184-136000484-BasePremium" Name="Base Premium" Operation="=" Factor="54075.00" Value="54075.00" Status="Cleared">
+                        <DTOSteps id="Steps-Step-Coverage-1087430184-136000484-BasePremium">
+                            <DTOStep id="Step-Step-Coverage-1087430184-136000484-BasePremium-Exposure" Name="Exposure" Operation="=" Factor="2000.00" Value="2000.00" Status="Cleared"/>
+                            <DTOStep id="Step-Step-Coverage-1087430184-136000484-BasePremium-BaseRate" Name="Base Rate" Operation="X" Factor="25.00" Value="0.00" Status="Cleared"/>
+                            <DTOStep id="Step-Step-Coverage-1087430184-136000484-BasePremium-Territory" Name="Territory" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                            <DTOStep id="Step-Step-Coverage-1087430184-136000484-BasePremium-ILF" Name="ILF" Operation="X" Factor="1.05" Value="0.00" Status="Cleared"/>
+                            <DTOStep id="Step-Step-Coverage-1087430184-136000484-BasePremium-MedPay" Name="Med Pay" Operation="X" Factor="1.03" Value="54075.00" Status="Cleared"/>
+                        </DTOSteps>
+                    </DTOStep>
+                    <DTOStep id="Step-Coverage-1087430184-136000484-LargePremiumDiscountPlan" Name="Large Premium Discount Plan" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+                    <DTOStep id="Step-Coverage-1087430184-136000484-IRPM" Name="IRPM" Operation="X" Factor="1.02" Value="55157.00" Status="Cleared"/>
+                    <DTOStep id="Step-Coverage-1087430184-136000484-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="55157.00" Status="Cleared"/>
+                </DTOSteps>
+                <DTOLimit id="Limit-466875901-1250320752" LimitCd="Limit2" TypeCd="Property Damage" Value="2000000"/>
+                <DTOLimit id="Limit-1815956776-2030279966" LimitCd="Limit3" TypeCd="Personal &amp; Advertising Injury" Value="1000000"/>
+                <DTOLimit id="Limit-956467958-1403047055" LimitCd="Limit4" TypeCd="Medical Payments" Value="10000"/>
+                <DTOLimit id="Limit-1441959902-813437715" LimitCd="Limit5" TypeCd="Cost of Bail Bonds" Value="250"/>
+                <DTOLimit id="Limit-486828752-1209338187" LimitCd="Limit6" TypeCd="Actual Loss of Earnings" Value="$250/day"/>
+            </DTOCoverage>
+            <DTOBuilding id="Building-1587368811-1752169181">
+                <Addr id="Addr-205048346-700870326" AddrTypeCd="RiskAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+                <Addr id="Addr-494167790-182115983" AddrTypeCd="RiskLookupAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" PrimaryNumber="8071" StreetName="Wadsworth" Suffix="Blvd" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+            </DTOBuilding>
+            <DTOGLClass id="GLClass-1081654740-1523701939" ExposureNumber="1" Status="Active" GLClassCode="CANDIS" ExposureBasis="$1,000 Sales" Exposure="2000000" ExposureGLClassEligibility="All" BusinessClassDesc="Retail sales to eligible medical customers/permit holders" ExposureEligibleOperation="No other qualifications" ExposureInEligibleOperation="Any retail exposures that are not solely medical use cannabis" PrimaryOperation="Yes" IndustryAbbr="CANN" ExposureBaseRate="25" Description="Dispensary - Medical" ExposureCounterNumber="1" Industry="Cannabis">
+                <Addr id="Addr-1689028113-954073773" AddrTypeCd="ExposureAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+                <Addr id="Addr-193965547-2012980664" AddrTypeCd="ExposureLookupAddr" Addr1="8071 Wadsworth Blvd" City="Arvada" StateProvCd="CO" PostalCode="80003-1646" County="Jefferson" RegionCd="United States" RegionISOCd="US" PrimaryNumber="8071" StreetName="Wadsworth" Suffix="Blvd" VerificationHash="8071 WADSWORTH BLVD ARVADA JEFFERSON CO 800031646" Score="100" DPV="4" DPVDesc="The input record is a valid mailing address, but is missing the apartment or rural route box number" DPVNotes="1, 8" DPVNotesDesc="The input address matched the ZIP+4 record, The input address matched a DPV highrise but a secondary was not input" BarcodeDigits="800031646994" CarrierRoute="C005" CongressCode="07" CountyCode="059"/>
+            </DTOGLClass>
+            <DTOVehicle id="Vehicle-1036881535-1762512181">
+                <Addr id="Addr-1771131403-563281662" AddrTypeCd="VehicleGarageAddr" City="Arvada" StateProvCd="CO" PostalCode="80003-1646"/>
+            </DTOVehicle>
+        </DTORisk>
+        <DTOCoverage id="Coverage-936078856-1370792116" Status="Active" CoverageCd="AGGL" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Per Location Aggregate" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOSteps id="Steps-Coverage-936078856-1370792116">
+                <DTOStep id="Step-Coverage-936078856-1370792116-GLPremium" Name="GL Premium" Operation="=" Factor="55475.00" Value="55475.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-936078856-1370792116-PerLocationAggregateFactor" Name="Per Location Aggregate Factor" Operation="X" Factor="0.00" Value="0.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-936078856-1370792116-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="0.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-100552086-1282038574" Status="Active" CoverageCd="DREN" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="93.75" Description="Damage to Premises Rented to You" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-951055127-1330285417" LimitCd="Limit1" Value="500000"/>
+            <DTOSteps id="Steps-Coverage-100552086-1282038574">
+                <DTOStep id="Step-Coverage-100552086-1282038574-Premium" Name="Premium" Operation="=" Factor="375.00" Value="375.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-100552086-1282038574-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="375.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1753533247-827931811" Status="Active" CoverageCd="HANO" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="125.00" Description="Hired &amp; Non-Owned Automobile Liability" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-718534690-1690309492" LimitCd="Limit1" Value="1000000"/>
+            <DTOSteps id="Steps-Coverage-1753533247-827931811">
+                <DTOStep id="Step-Coverage-1753533247-827931811-Premium" Name="Premium" Operation="=" Factor="500.00" Value="500.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-1753533247-827931811-FinalPremium" Name="Final Premium" Operation="=" Factor="1.00" Value="500.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1478805976-357016717" Status="Active" CoverageCd="MPAY" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Medical Payments" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1912098530-258749196" LimitCd="Limit1" Value="10000"/>
+            <DTOSteps id="Steps-Coverage-1478805976-357016717"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-763105832-915106268" Status="Active" CoverageCd="TRIAL" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="407.50" Description="TRIA - Liability" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOSteps id="Steps-Coverage-763105832-915106268">
+                <DTOStep id="Step-Coverage-763105832-915106268-Premium" Name="Premium" Operation="=" Factor="1630.00" Value="1630.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-763105832-915106268-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="1630.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1477564498-771262402" Status="Deleted" CoverageCd="WSUB" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Waiver of Transfer of Rights of Recovery Against Others to Us" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes"/>
+        <DTOCoverage id="Coverage-1796265487-95315037" Status="Active" CoverageCd="ASBT" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="2108.00" Description="Assault and Battery (Limited) - Occurrence/Aggregate" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1525065024-925610173" LimitCd="Limit1" Value="100000"/>
+            <DTOSteps id="Steps-Coverage-1796265487-95315037">
+                <DTOStep id="Step-Coverage-1796265487-95315037-RatedPremium" Name="Rated Premium" Operation="=" Factor="8432.20" Value="8432.20" Status="Cleared">
+                    <DTOSteps id="Steps-Step-Coverage-1796265487-95315037-RatedPremium">
+                        <DTOStep id="Step-Step-Coverage-1796265487-95315037-RatedPremium-GLPremium" Name="GL Premium" Operation="=" Factor="55475.00" Value="55475.00" Status="Cleared"/>
+                        <DTOStep id="Step-Step-Coverage-1796265487-95315037-RatedPremium-AssaultAndBatteryFactor" Name="Assault And Battery Factor" Operation="X" Factor="0.15" Value="8432.20" Status="Cleared"/>
+                    </DTOSteps>
+                </DTOStep>
+                <DTOStep id="Step-Coverage-1796265487-95315037-BalanceToMinimum" Name="Balance To Minimum" Operation="+" Factor="166.65" Value="400.00" Status="Cleared">
+                    <DTOSteps id="Steps-Step-Coverage-1796265487-95315037-BalanceToMinimum">
+                        <DTOStep id="Step-Step-Coverage-1796265487-95315037-BalanceToMinimum-MinimumPremium" Name="Minimum Premium" Operation="=" Factor="400.00" Value="400.00" Status="Cleared"/>
+                        <DTOStep id="Step-Step-Coverage-1796265487-95315037-BalanceToMinimum-RatedPremium" Name="Rated Premium" Operation="-" Factor="233.35" Value="166.65" Status="Cleared"/>
+                    </DTOSteps>
+                </DTOStep>
+                <DTOStep id="Step-Coverage-1796265487-95315037-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="8432.00" Status="Cleared"/>
+            </DTOSteps>
+            <DTOLimit id="Limit-775264973-1481613274" LimitCd="Limit2" Value="200000"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1249280170-255689929" Status="Active" CoverageCd="EBLI" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="131.25" Description="Employee Benefits Liability" PrevWrittenAmt="0.00" PrevFinalAmt="0.00" ShortRateAmt="0.00" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-215353461-1926998677" LimitCd="Limit1" Value="1000000"/>
+            <DTODeductible id="Deductible-426669184-2056695976" DeductibleCd="Deductible1" Value="500/Employee"/>
+            <DTOSteps id="Steps-Coverage-1249280170-255689929">
+                <DTOStep id="Step-Coverage-1249280170-255689929-EBLIFinalPremium" Name="EBLI Final Premium" Desc="EBLI Final Premium Desc" Operation="=" Factor="525.00" Value="525.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-1249280170-255689929-BaseCharge" Name="Base Charge" Operation="=" Factor="500.00" Value="500.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-1249280170-255689929-PerEmployeeCharge" Name="Per Employee Charge" Operation="+" Factor="25.00" Value="525.00" Status="Cleared">
+                    <DTOSteps id="Steps-Step-Coverage-1249280170-255689929-PerEmployeeCharge">
+                        <DTOStep id="Step-Step-Coverage-1249280170-255689929-PerEmployeeCharge-FTE" Name="FTE" Operation="=" Factor="5.00" Value="5.00" Status="Cleared"/>
+                        <DTOStep id="Step-Step-Coverage-1249280170-255689929-PerEmployeeCharge-RatePerEmployee" Name="Rate Per Employee" Operation="X" Factor="5.00" Value="25.00" Status="Cleared"/>
+                    </DTOSteps>
+                </DTOStep>
+                <DTOStep id="Step-Coverage-1249280170-255689929-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="525.00" Status="Cleared"/>
+            </DTOSteps>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1089912928-1319927289" Status="Active" CoverageCd="CMML" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Multimedia Liability" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-842969150-1144882137" LimitCd="Limit1" Value="100000"/>
+            <DTOSteps id="Steps-Coverage-1089912928-1319927289"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1214290368-586581327" Status="Active" CoverageCd="CSPL" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Security and Privacy Liability" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-184416643-1184882565" LimitCd="Limit1" Value="100000"/>
+            <DTOSteps id="Steps-Coverage-1214290368-586581327"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1353948064-590178473" Status="Active" CoverageCd="CPRDP" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Privacy Regulatory Defense and Penalties" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-469170366-1465130747" LimitCd="Limit1" Value="100000"/>
+            <DTOSteps id="Steps-Coverage-1353948064-590178473"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1546026373-941164478" Status="Active" CoverageCd="CPDL" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="PCI DSS Liability" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1330476416-543744953" LimitCd="Limit1" Value="100000"/>
+            <DTOSteps id="Steps-Coverage-1546026373-941164478"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-96463698-1362010852" Status="Active" CoverageCd="CTCD" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="TCPA Defense" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-918353491-1285783213" LimitCd="Limit1" Value="10000"/>
+            <DTOSteps id="Steps-Coverage-96463698-1362010852"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1621164493-367255061" Status="Active" CoverageCd="CBEC" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Breach Event Costs" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1122147346-707089130" LimitCd="Limit1" Value="100000"/>
+            <DTOSteps id="Steps-Coverage-1621164493-367255061"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-193794143-1455520321" Status="Active" CoverageCd="CBGD" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Brand Guard" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1450430577-899624200" LimitCd="Limit1" Value="100000"/>
+            <DTOSteps id="Steps-Coverage-193794143-1455520321"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-503550202-192234073" Status="Active" CoverageCd="CSFL" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="System Failure" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-1196345682-1170736385" LimitCd="Limit1" Value="100000"/>
+            <DTOSteps id="Steps-Coverage-503550202-192234073"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1765403147-2034917115" Status="Active" CoverageCd="CCEX" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Cyber Extortion" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-2091887838-1524656370" LimitCd="Limit1" Value="100000"/>
+            <DTOSteps id="Steps-Coverage-1765403147-2034917115"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1786263987-1076265518" Status="Active" CoverageCd="CCCR" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Cyber Crime" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-425248032-851890713" LimitCd="Limit1" Value="10000"/>
+            <DTOSteps id="Steps-Coverage-1786263987-1076265518"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-56971735-671628918" Status="Active" CoverageCd="CREX" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Reward Expenses" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-744126324-93876417" LimitCd="Limit1" Value="10000"/>
+            <DTOSteps id="Steps-Coverage-56971735-671628918"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1180621241-1355978704" Status="Active" CoverageCd="CCAC" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="0.00" Description="Court Attendance Costs" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-369818483-648637210" LimitCd="Limit1" Value="10000"/>
+            <DTOSteps id="Steps-Coverage-1180621241-1355978704"/>
+        </DTOCoverage>
+        <DTOCoverage id="Coverage-1812722593-1773347555" Status="Active" CoverageCd="CLIAB" FullTermAmt="0.00" WrittenPremiumAmt="0.00" FinalPremiumAmt="0.00" EarnedAmt="0.00" CommissionPct="25.00" ContributionPct="0.00" CommissionAmt="0.00" TransactionCommissionAmt="48.75" Description="Cyber Liability" RateDRCCoverageInd="Yes">
+            <DTOLimit id="Limit-78603636-923408571" LimitCd="Limit1" TypeCd="Limit1"/>
+            <DTODeductible id="Deductible-1714224581-1165409172" DeductibleCd="Deductible1" TypeCd="Amount"/>
+            <DTOSteps id="Steps-Coverage-1812722593-1773347555">
+                <DTOStep id="Step-Coverage-1812722593-1773347555-Premium" Name="Premium" Operation="=" Factor="195.00" Value="195.00" Status="Cleared"/>
+                <DTOStep id="Step-Coverage-1812722593-1773347555-TermFactor" Name="Term Factor" Operation="X" Factor="1.00" Value="195.00" Status="Cleared"/>
+            </DTOSteps>
+            <DTOLimit id="Limit-53624576-1936105919" LimitCd="Limit3" TypeCd="CMML" Value="100000"/>
+            <DTOLimit id="Limit-203292258-1798697114" LimitCd="Limit4" TypeCd="CSPL" Value="100000"/>
+            <DTOLimit id="Limit-2037192899-1069557000" LimitCd="Limit5" TypeCd="CPRDP" Value="100000"/>
+            <DTOLimit id="Limit-1556951676-406366303" LimitCd="Limit6" TypeCd="CPDL" Value="100000"/>
+            <DTOLimit id="Limit-159514779-936676550" LimitCd="Limit7" TypeCd="CTCD" Value="10000"/>
+            <DTOLimit id="Limit-46077586-1595419850" LimitCd="Limit8" TypeCd="CBEC" Value="100000"/>
+            <DTOLimit id="Limit-1183283562-1428586432" LimitCd="Limit9" TypeCd="CBGD" Value="100000"/>
+            <DTOLimit id="Limit-794294384-834141996" LimitCd="Limit10" TypeCd="CSFL" Value="100000"/>
+            <DTOLimit id="Limit-1283886169-708326006" LimitCd="Limit11" TypeCd="CCEX" Value="100000"/>
+            <DTOLimit id="Limit-977062713-880549325" LimitCd="Limit12" TypeCd="CCCR" Value="10000"/>
+            <DTOLimit id="Limit-1281407839-664832807" LimitCd="Limit13" TypeCd="CREX" Value="10000"/>
+            <DTOLimit id="Limit-2065299945-794759474" LimitCd="Limit14" TypeCd="CCAC" Value="10000"/>
+        </DTOCoverage>
+    </DTOLine>
+    <DTOForm id="Form-2133780402-1646959381" Status="Attached" Name="CISASF0419" FormNum="CIS ASF" FormEdition="04/19" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001050" FillinInd="No" ProductFormIdRef="CISASF0419" DisplayDesc="TWO OR MORE COVERAGE FORMS OR POLICIES ISSUED BY US" DeclarationFormListName="TWO OR MORE COVERAGE FORMS OR POLICIES ISSUED BY US"/>
+    <DTOForm id="Form-414032164-386228945" Status="Attached" Name="CISMP0041017" FormNum="CIS MP 004" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001060" FillinInd="No" ProductFormIdRef="CISMP0041017" DisplayDesc="25% MINIMUM EARNED PREMIUM ENDORSEMENT" DeclarationFormListName="25% MINIMUM EARNED PREMIUM ENDORSEMENT"/>
+    <DTOForm id="Form-530449652-693818913" Status="Attached" Name="CISSUITDN0061017" FormNum="CIS SUIT D N006" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001080" FillinInd="No" ProductFormIdRef="CISSUITDN0061017" DisplayDesc="SERVICE OF SUIT CLAUSE" DeclarationFormListName="SERVICE OF SUIT CLAUSE"/>
+    <DTOForm id="Form-1544283823-1612977173" Status="Attached" Name="IL00171198" FormNum="IL 00 17" FormEdition="11/98" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001100" FillinInd="No" ProductFormIdRef="IL00171198" DisplayDesc="COMMON POLICY CONDITIONS" DeclarationFormListName="COMMON POLICY CONDITIONS"/>
+    <DTOForm id="Form-267519297-1885745472" Status="Attached" Name="IL00210908" FormNum="IL 00 21" FormEdition="09/08" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001170" FillinInd="No" ProductFormIdRef="IL00210908" DisplayDesc="NUCLEAR ENERGY LIABILITY EXCLUSION ENDORSEMENT" DeclarationFormListName="NUCLEAR ENERGY LIABILITY EXCLUSION ENDORSEMENT"/>
+    <DTOForm id="Form-1935384445-866101695" Status="Attached" Name="CISCGLDEC011017" FormNum="CIS CGL DEC 01" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001770" FillinInd="No" ProductFormIdRef="CISCGLDEC011017" DisplayDesc="COMMERCIAL GENERAL LIABILITY DECLARATIONS" DeclarationFormListName="COMMERCIAL GENERAL LIABILITY DECLARATIONS"/>
+    <DTOForm id="Form-752384640-1836429930" Status="Attached" Name="CG00010413" FormNum="CG 00 01" FormEdition="04/13" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001780" FillinInd="No" ProductFormIdRef="CG00010413" DisplayDesc="COMMERCIAL GENERAL LIABILITY COVERAGE FORM" DeclarationFormListName="COMMERCIAL GENERAL LIABILITY COVERAGE FORM"/>
+    <DTOForm id="Form-1115322574-208073583" Status="Attached" Name="CG21041185" FormNum="CG 21 04" FormEdition="11/85" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001830" FillinInd="No" ProductFormIdRef="CG21041185" DisplayDesc="EXCLUSION - PRODUCTS-COMPLETED OPERATIONS HAZARD" DeclarationFormListName="EXCLUSION - PRODUCTS-COMPLETED OPERATIONS HAZARD"/>
+    <DTOForm id="Form-848178243-164125942" Status="Attached" Name="CISGL34501017" FormNum="CIS GL 34 50" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001880" FillinInd="No" ProductFormIdRef="CISGL34501017" DisplayDesc="EXCLUSION - LIQUOR LIABILITY" DeclarationFormListName="EXCLUSION - LIQUOR LIABILITY"/>
+    <DTOForm id="Form-1185068170-2044296363" Status="Attached" Name="CISGL34511017" FormNum="CIS GL 34 51" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001890" FillinInd="No" ProductFormIdRef="CISGL34511017" DisplayDesc="EXCLUSION - ASSAULT OR BATTERY" DeclarationFormListName="EXCLUSION - ASSAULT OR BATTERY"/>
+    <DTOForm id="Form-980859879-1905422259" Status="Attached" Name="CISGL34521017" FormNum="CIS GL 34 52" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001900" FillinInd="No" ProductFormIdRef="CISGL34521017" DisplayDesc="EXCLUSION - ASBESTOS" DeclarationFormListName="EXCLUSION - ASBESTOS"/>
+    <DTOForm id="Form-583500783-281648952" Status="Attached" Name="CISGL34531017" FormNum="CIS GL 34 53" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001910" FillinInd="No" ProductFormIdRef="CISGL34531017" DisplayDesc="EXCLUSION - FIREARMS" DeclarationFormListName="EXCLUSION - FIREARMS"/>
+    <DTOForm id="Form-527415109-2103618796" Status="Attached" Name="CISGL34541017" FormNum="CIS GL 34 54" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001920" FillinInd="No" ProductFormIdRef="CISGL34541017" DisplayDesc="EXCLUSION - ANIMAL" DeclarationFormListName="EXCLUSION - ANIMAL"/>
+    <DTOForm id="Form-1671729236-1070129991" Status="Attached" Name="CISGL34551017" FormNum="CIS GL 34 55" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001930" FillinInd="No" ProductFormIdRef="CISGL34551017" DisplayDesc="EXCLUSION - AMERICANS WITH DISABILITIES ACT" DeclarationFormListName="EXCLUSION - AMERICANS WITH DISABILITIES ACT"/>
+    <DTOForm id="Form-1568652900-898788587" Status="Attached" Name="CISGL34561017" FormNum="CIS GL 34 56" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001940" FillinInd="No" ProductFormIdRef="CISGL34561017" DisplayDesc="EXCLUSION - RESIDENTIAL OCCUPANCY" DeclarationFormListName="EXCLUSION - RESIDENTIAL OCCUPANCY"/>
+    <DTOForm id="Form-1920171069-173632495" Status="Attached" Name="CISGL34571017" FormNum="CIS GL 34 57" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001950" FillinInd="No" ProductFormIdRef="CISGL34571017" DisplayDesc="EXCLUSION - LEAD" DeclarationFormListName="EXCLUSION - LEAD"/>
+    <DTOForm id="Form-720730206-212253919" Status="Attached" Name="CISGL34581017" FormNum="CIS GL 34 58" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001960" FillinInd="No" ProductFormIdRef="CISGL34581017" DisplayDesc="EXCLUSION - ADDITIONAL DAMAGES, TAXES, FINES OR PENALTIES" DeclarationFormListName="EXCLUSION - ADDITIONAL DAMAGES, TAXES, FINES OR PENALTIES"/>
+    <DTOForm id="Form-1700637666-614113973" Status="Attached" Name="CISGL34591017" FormNum="CIS GL 34 59" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001970" FillinInd="No" ProductFormIdRef="CISGL34591017" DisplayDesc="EXCLUSION - CROSS SUITS" DeclarationFormListName="EXCLUSION - CROSS SUITS"/>
+    <DTOForm id="Form-623647216-483723726" Status="Attached" Name="CISGL34601017" FormNum="CIS GL 34 60" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001980" FillinInd="No" ProductFormIdRef="CISGL34601017" DisplayDesc="EXCLUSION - FIDUCIARY" DeclarationFormListName="EXCLUSION - FIDUCIARY"/>
+    <DTOForm id="Form-350204685-1705063465" Status="Attached" Name="CISGL34611017" FormNum="CIS GL 34 61" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001990" FillinInd="No" ProductFormIdRef="CISGL34611017" DisplayDesc="EXCLUSION - GOVERNMENTAL ACTS AND CRIMINAL ACTIVITIES" DeclarationFormListName="EXCLUSION - GOVERNMENTAL ACTS AND CRIMINAL ACTIVITIES"/>
+    <DTOForm id="Form-545739508-346600531" Status="Attached" Name="CISGL34621017" FormNum="CIS GL 34 62" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002000" FillinInd="No" ProductFormIdRef="CISGL34621017" DisplayDesc="EXCLUSION - PROFESSIONAL SERVICES" DeclarationFormListName="EXCLUSION - PROFESSIONAL SERVICES"/>
+    <DTOForm id="Form-2097560080-300567013" Status="Attached" Name="CISGL34661119" FormNum="CIS GL 34 66" FormEdition="11/19" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002040" FillinInd="No" ProductFormIdRef="CISGL34661119" DisplayDesc="EXCLUSION - SPECIFIED DISEASE" DeclarationFormListName="EXCLUSION - SPECIFIED DISEASE"/>
+    <DTOForm id="Form-199277022-1513852637" Status="Attached" Name="CISAUDIT011017" FormNum="CIS AUDIT 01" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002070" FillinInd="No" ProductFormIdRef="CISAUDIT011017" DisplayDesc="AUDIT PREMIUMS - AMENDATORY ENDORSEMENT" DeclarationFormListName="AUDIT PREMIUMS - AMENDATORY ENDORSEMENT"/>
+    <DTOForm id="Form-379709744-1439117152" Status="Attached" Name="CG21060514" FormNum="CG 21 06" FormEdition="05/14" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002090" FillinInd="No" ProductFormIdRef="CG21060514" DisplayDesc="EXCLUSION - ACCESS OR DISCLOSURE OF CONFIDENTIAL OR PERSONAL INFORMATION AND DATA-RELATED LIABILITY - WITH LIMITED BODILY INJURY EXCEPTION" DeclarationFormListName="EXCLUSION - ACCESS OR DISCLOSURE OF CONFIDENTIAL OR PERSONAL INFORMATION AND DATA-RELATED LIABILITY - WITH LIMITED BODILY INJURY EXCEPTION"/>
+    <DTOForm id="Form-1533497935-1571582616" Status="Attached" Name="CG21090615" FormNum="CG 21 09" FormEdition="06/15" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002110" FillinInd="No" ProductFormIdRef="CG21090615" DisplayDesc="EXCLUSION - UNMANNED AIRCRAFT" DeclarationFormListName="EXCLUSION - UNMANNED AIRCRAFT"/>
+    <DTOForm id="Form-1234811348-1998535373" Status="Attached" Name="CG21360305" FormNum="CG 21 36" FormEdition="03/05" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002130" FillinInd="No" ProductFormIdRef="CG21360305" DisplayDesc="EXCLUSION NEW ENTITIES" DeclarationFormListName="EXCLUSION NEW ENTITIES"/>
+    <DTOForm id="Form-1546285586-528063172" Status="Attached" Name="CG21440417" FormNum="CG 21 44" FormEdition="04/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002140" FillinInd="No" ProductFormIdRef="CG21440417" DisplayDesc="LIMITATION OF COVERAGE TO DESIGNATED PREMISES, PROJECT OR OPERATION" DeclarationFormListName="LIMITATION OF COVERAGE TO DESIGNATED PREMISES, PROJECT OR OPERATION"/>
+    <DTOForm id="Form-464177126-359489292" Status="Attached" Name="CG21460798" FormNum="CG 21 46" FormEdition="07/98" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002150" FillinInd="No" ProductFormIdRef="CG21460798" DisplayDesc="ABUSE OR MOLESTATION EXCLUSION" DeclarationFormListName="ABUSE OR MOLESTATION EXCLUSION"/>
+    <DTOForm id="Form-441976145-1235485540" Status="Attached" Name="CG21471207" FormNum="CG 21 47" FormEdition="12/07" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002160" FillinInd="No" ProductFormIdRef="CG21471207" DisplayDesc="EMPLOYMENT-RELATED PRACTICES EXCLUSION" DeclarationFormListName="EMPLOYMENT-RELATED PRACTICES EXCLUSION"/>
+    <DTOForm id="Form-75266113-2073477885" Status="Attached" Name="CG21490999" FormNum="CG 21 49" FormEdition="09/99" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002170" FillinInd="No" ProductFormIdRef="CG21490999" DisplayDesc="TOTAL POLLUTION EXCLUSION ENDORSEMENT" DeclarationFormListName="TOTAL POLLUTION EXCLUSION ENDORSEMENT"/>
+    <DTOForm id="Form-566108755-1223207459" Status="Attached" Name="CG21660615" FormNum="CG 21 66" FormEdition="06/15" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002180" FillinInd="No" ProductFormIdRef="CG21660615" DisplayDesc="EXCLUSION - VOLUNTEER WORKERS" DeclarationFormListName="EXCLUSION - VOLUNTEER WORKERS"/>
+    <DTOForm id="Form-791768335-1660797758" Status="Attached" Name="CG21671204" FormNum="CG 21 67" FormEdition="12/04" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002190" FillinInd="No" ProductFormIdRef="CG21671204" DisplayDesc="FUNGI OR BACTERIA EXCLUSION" DeclarationFormListName="FUNGI OR BACTERIA EXCLUSION"/>
+    <DTOForm id="Form-838982024-1068880985" Status="Attached" Name="CG21960305" FormNum="CG 21 96" FormEdition="03/05" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002200" FillinInd="No" ProductFormIdRef="CG21960305" DisplayDesc="SILICA OR SILICA-RELATED DUST EXCLUSION" DeclarationFormListName="SILICA OR SILICA-RELATED DUST EXCLUSION"/>
+    <DTOForm id="Form-457744309-387996625" Status="Attached" Name="CG24100798" FormNum="CG 24 10" FormEdition="07/98" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002590" FillinInd="No" ProductFormIdRef="CG24100798" DisplayDesc="EXCESS PROVISION - VENDORS" DeclarationFormListName="EXCESS PROVISION - VENDORS"/>
+    <DTOForm id="Form-735120676-978780955" Status="Attached" Name="CISCPDEC021017" FormNum="CIS CP DEC 02" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002640" FillinInd="No" ProductFormIdRef="CISCPDEC021017" DisplayDesc="COMMERCIAL PROPERTY COVERAGE PART DECLARATIONS PAGE" DeclarationFormListName="COMMERCIAL PROPERTY COVERAGE PART DECLARATIONS PAGE"/>
+    <DTOForm id="Form-1698535123-1893119862" Status="Attached" Name="CISCPDEC02A1017" FormNum="CIS CP DEC 02 A" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002650" FillinInd="No" ProductFormIdRef="CISCPDEC02A1017" DisplayDesc="CANNABIS AND HEMP COVERAGE SCHEDULE" DeclarationFormListName="CANNABIS AND HEMP COVERAGE SCHEDULE"/>
+    <DTOForm id="Form-1405955173-1367384796" Status="Attached" Name="CP00900788" FormNum="CP 00 90" FormEdition="07/88" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002660" FillinInd="No" ProductFormIdRef="CP00900788" DisplayDesc="COMMERCIAL PROPERTY CONDITIONS" DeclarationFormListName="COMMERCIAL PROPERTY CONDITIONS"/>
+    <DTOForm id="Form-1484930353-489315408" Status="Attached" Name="CP00101012" FormNum="CP 00 10" FormEdition="10/12" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002710" FillinInd="No" ProductFormIdRef="CP00101012" DisplayDesc="BUILDING AND PERSONAL PROPERTY COVERAGE FORM" DeclarationFormListName="BUILDING AND PERSONAL PROPERTY COVERAGE FORM"/>
+    <DTOForm id="Form-658433428-1937520109" Status="Attached" Name="CP10300917" FormNum="CP 10 30" FormEdition="09/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002730" FillinInd="No" ProductFormIdRef="CP10300917" DisplayDesc="CAUSES OF LOSS - SPECIAL FORM" DeclarationFormListName="CAUSES OF LOSS - SPECIAL FORM"/>
+    <DTOForm id="Form-630960059-928658872" Status="Attached" Name="CISCP99301017" FormNum="CIS CP 99 30" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002790" FillinInd="No" ProductFormIdRef="CISCP99301017" DisplayDesc="TOTAL FUNGUS, WET ROT, DRY ROT AND BACTERIA EXCLUSION" DeclarationFormListName="TOTAL FUNGUS, WET ROT, DRY ROT AND BACTERIA EXCLUSION"/>
+    <DTOForm id="Form-2061570192-1085546227" Status="Attached" Name="CISCP14200418" FormNum="CIS CP 14 20" FormEdition="04/18" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002810" FillinInd="No" ProductFormIdRef="CISCP14200418" DisplayDesc="ADDITIONAL PROPERTY NOT COVERED - CANNABIS AND HEMP" DeclarationFormListName="ADDITIONAL PROPERTY NOT COVERED - CANNABIS AND HEMP"/>
+    <DTOForm id="Form-942311209-1589346913" Status="Attached" Name="CP10361012" FormNum="CP 10 36" FormEdition="10/12" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002840" FillinInd="No" ProductFormIdRef="CP10361012" DisplayDesc="LIMITATIONS ON COVERAGE FOR ROOF SURFACING" DeclarationFormListName="LIMITATIONS ON COVERAGE FOR ROOF SURFACING"/>
+    <DTOForm id="Form-741113014-1284484166" Status="Attached" Name="CP01400706" FormNum="CP 01 40" FormEdition="07/06" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002880" FillinInd="No" ProductFormIdRef="CP01400706" DisplayDesc="EXCLUSION OF LOSS DUE TO VIRUS OR BACTERIA" DeclarationFormListName="EXCLUSION OF LOSS DUE TO VIRUS OR BACTERIA"/>
+    <DTOForm id="Form-552630577-584736708" Status="Attached" Name="IL09350702" FormNum="IL 09 35" FormEdition="07/02" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002890" FillinInd="No" ProductFormIdRef="IL09350702" DisplayDesc="EXCLUSION OF CERTAIN COMPUTER-RELATED LOSSES" DeclarationFormListName="EXCLUSION OF CERTAIN COMPUTER-RELATED LOSSES"/>
+    <DTOForm id="Form-2140860868-265205132" Status="Attached" Name="CISNOTICETRIA21217" FormNum="CIS NOTICE TRIA 2" FormEdition="12/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001110" FillinInd="No" ProductFormIdRef="CISNOTICETRIA21217" DisplayDesc="POLICYHOLDERS DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE (ACQUIRED)" DeclarationFormListName="POLICYHOLDERS DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE (ACQUIRED)"/>
+    <DTOForm id="Form-15362550-1562636157" Status="Attached" Name="CG21700115" FormNum="CG 21 70" FormEdition="01/15" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001840" FillinInd="No" ProductFormIdRef="CG21700115" DisplayDesc="CAP ON LOSSES FROM CERTIFIED ACTS OF TERRORISM" DeclarationFormListName="CAP ON LOSSES FROM CERTIFIED ACTS OF TERRORISM"/>
+    <DTOForm id="Form-1964974540-260544566" Status="Attached" Name="CISGL40011017" FormNum="CIS GL 40 01" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002050" FillinInd="No" ProductFormIdRef="CISGL40011017" DisplayDesc="HIRED AUTO AND NON-OWNED AUTO LIABILITY" DeclarationFormListName="HIRED AUTO AND NON-OWNED AUTO LIABILITY"/>
+    <DTOForm id="Form-1550972393-510374173" Status="Attached" Name="CG25040509" FormNum="CG 25 04" FormEdition="05/09" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002330" FillinInd="No" ProductFormIdRef="CG25040509" DisplayDesc="DESIGNATED LOCATION(S) GENERAL AGGREGATE LIMIT" DeclarationFormListName="DESIGNATED LOCATION(S) GENERAL AGGREGATE LIMIT"/>
+    <DTOForm id="Form-318173789-553885213" Status="Deleted" Name="CP04050917" FormNum="CP 04 05" FormEdition="09/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="2830" FillinInd="No" ProductFormIdRef="CP04050917" DisplayDesc="ORDINANCE OR LAW COVERAGE" DeclarationFormListName="ORDINANCE OR LAW COVERAGE"/>
+    <DTOForm id="Form-1921968489-833506684" Status="Attached" Name="CISCP99000419" FormNum="CIS CP 99 00" FormEdition="04/19" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002750" FillinInd="No" ProductFormIdRef="CISCP99000419" DisplayDesc="CANNABIS AND HEMP COVERAGE" DeclarationFormListName="CANNABIS AND HEMP COVERAGE"/>
+    <DTOForm id="Form-342832398-690070248" Status="Attached" Name="CISCPTRANSIT1117" FormNum="CIS CP TRANSIT" FormEdition="11/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002760" FillinInd="No" ProductFormIdRef="CISCPTRANSIT1117" DisplayDesc="PROPERTY IN TRANSIT" DeclarationFormListName="PROPERTY IN TRANSIT"/>
+    <DTOForm id="Form-744604420-1877458521" Status="Attached" Name="CP03211012" FormNum="CP 03 21" FormEdition="10/12" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002860" FillinInd="No" ProductFormIdRef="CP03211012" DisplayDesc="WINDSTORM OR HAIL PERCENTAGE DEDUCTIBLE" DeclarationFormListName="WINDSTORM OR HAIL PERCENTAGE DEDUCTIBLE"/>
+    <DTOForm id="Form-46997998-652211645" Status="Deleted" Name="CG24040509" FormNum="CG 24 04" FormEdition="05/09" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="3460" FillinInd="No" ProductFormIdRef="CG24040509" DisplayDesc="WAIVER OF TRANSFER OF RIGHTS OF RECOVERY AGAINST OTHERS TO US" DeclarationFormListName="WAIVER OF TRANSFER OF RIGHTS OF RECOVERY AGAINST OTHERS TO US"/>
+    <DTOForm id="Form-515836245-1379482712" Status="Attached" Name="PACKBINDER0120" FormNum="PACKBINDER" FormEdition="01/20" IncludeInFormListInd="No" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001000" FillinInd="No" ProductFormIdRef="PACKBINDER0120" DisplayDesc="PACKAGE BINDER" DeclarationFormListName="PACKAGE BINDER"/>
+    <DTOForm id="Form-1016185315-1770165078" Status="Attached" Name="cisdecdpackage011017" FormNum="CIS DEC D 01" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001010" FillinInd="No" ProductFormIdRef="cisdecdpackage011017" DisplayDesc="COMMON POLICY DECLARATIONS - PCKG" DeclarationFormListName="COMMON POLICY DECLARATIONS - PCKG"/>
+    <DTOForm id="Form-252824210-340913364" Status="Attached" Name="IL01251113" FormNum="IL 01 25" FormEdition="11/13" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001230" FillinInd="No" ProductFormIdRef="IL01251113" DisplayDesc="COLORADO CHANGES - CIVIL UNION" DeclarationFormListName="COLORADO CHANGES - CIVIL UNION"/>
+    <DTOForm id="Form-645773668-1528334046" Status="Attached" Name="IL01690907" FormNum="IL 01 69" FormEdition="09/07" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="001240" FillinInd="No" ProductFormIdRef="IL01690907" DisplayDesc="COLORADO CHANGES - CONCEALMENT, MISREPRESENTATION OR FRAUD" DeclarationFormListName="COLORADO CHANGES - CONCEALMENT, MISREPRESENTATION OR FRAUD"/>
+    <DTOForm id="Form-1524404853-1106309814" Status="Attached" Name="IL02280907" FormNum="IL 02 28" FormEdition="09/07" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001250" FillinInd="No" ProductFormIdRef="IL02280907" DisplayDesc="COLORADO CHANGES - CANCELLATION AND NONRENEWAL" DeclarationFormListName="COLORADO CHANGES - CANCELLATION AND NONRENEWAL"/>
+    <DTOForm id="Form-177063285-356293772" Status="Attached" Name="ILN0200903" FormNum="IL N 020" FormEdition="09/03" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001260" FillinInd="No" ProductFormIdRef="ILN0200903" DisplayDesc="COLORADO FRAUD STATEMENT" DeclarationFormListName="COLORADO FRAUD STATEMENT"/>
+    <DTOForm id="Form-1605704564-205457458" Status="Attached" Name="CISCP99600818" FormNum="CIS CP 99 60" FormEdition="08/18" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002820" FillinInd="No" ProductFormIdRef="CISCP99600818" DisplayDesc="EQUIPMENT BREAKDOWN ENHANCEMENT ENDORSEMENT" DeclarationFormListName="EQUIPMENT BREAKDOWN ENHANCEMENT ENDORSEMENT"/>
+    <DTOForm id="Form-1208087811-1499393172" Status="Attached" Name="CISGL50011218" FormNum="CIS GL 50 01" FormEdition="12/18" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002060" FillinInd="No" ProductFormIdRef="CISGL50011218" DisplayDesc="ASSAULT OR BATTERY LIMITED COVERAGE" DeclarationFormListName="ASSAULT OR BATTERY LIMITED COVERAGE"/>
+    <DTOForm id="Form-227432830-1361087880" Status="Attached" Name="CG04351207" FormNum="CG 04 35" FormEdition="12/07" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001790" FillinInd="No" ProductFormIdRef="CG04351207" DisplayDesc="EMPLOYEE BENEFITS LIABILITY COVERAGE" DeclarationFormListName="EMPLOYEE BENEFITS LIABILITY COVERAGE"/>
+    <DTOForm id="Form-1617583121-1652236534" Status="Attached" Name="CG24171001" FormNum="CG 24 17" FormEdition="10/01" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="1820" FillinInd="No" ProductFormIdRef="CG24171001" DisplayDesc="CONTRACTUAL LIABILITY - RAILROADS" DeclarationFormListName="CONTRACTUAL LIABILITY - RAILROADS"/>
+    <DTOForm id="Form-482044893-762415969" Status="Attached" Name="CG22330413" FormNum="CG 22 33" FormEdition="04/13" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="2210" FillinInd="No" ProductFormIdRef="CG22330413" DisplayDesc="EXCLUSION - TESTING OR CONSULTING ERRORS AND OMISSIONS" DeclarationFormListName="EXCLUSION - TESTING OR CONSULTING ERRORS AND OMISSIONS"/>
+    <DTOForm id="Form-1391237687-343938112" Status="Attached" Name="CISGL34651019" FormNum="CIS GL 34 65" FormEdition="10/19" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="2030" FillinInd="No" ProductFormIdRef="CISGL34651019" DisplayDesc="LIQUOR AND CANNABIS PRODUCTS LIABILITY EXCLUSION" DeclarationFormListName="LIQUOR AND CANNABIS PRODUCTS LIABILITY EXCLUSION"/>
+    <DTOForm id="Form-479983495-1029684706" Status="Attached" Name="CISCNS4031017" FormNum="CIS CNS 403" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="1070" FillinInd="No" ProductFormIdRef="CISCNS4031017" DisplayDesc="COMBINATION ENDORSEMENT TRIBAL LIABILITY LIMITATIONS" DeclarationFormListName="COMBINATION ENDORSEMENT TRIBAL LIABILITY LIMITATIONS"/>
+    <DTOForm id="Form-1613092815-1797482589" Status="Deleted" Name="CISNOTICETRIA41217" FormNum="CIS NOTICE TRIA 4" FormEdition="12/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="1140" FillinInd="No" ProductFormIdRef="CISNOTICETRIA41217" DisplayDesc="POLICYHOLDERS DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE (RENEWAL)" DeclarationFormListName="POLICYHOLDERS DISCLOSURE NOTICE OF TERRORISM INSURANCE COVERAGE (RENEWAL)"/>
+    <DTOFee id="Fee-1495034598-1609469421" CategoryCd="InspectionFee" TypeCd="Fee" Description="Inspection Fee" FullTermAmt="0.00" WrittenAmt="0.00" FinalAmt="0.00" CommissionPct="100.00" ContributionPct="0.00" CommissionAmt="0.00" PrevFinalAmt="0.00" PrevWrittenAmt="0.00" TransactionCommissionAmt="175.00" Status="Active" BillingCategoryCd="InspectionFee" ShortRateAmt="0.00" RateDRCFeeInd="Yes">
+        <DTOSteps id="Steps-Fee-1495034598-1609469421">
+            <DTOStep id="Step-Fee-1495034598-1609469421-InspectionFee" Name="Inspection Fee" Operation="=" Factor="175.00" Value="175.00" Status="Cleared"/>
+        </DTOSteps>
+    </DTOFee>
+    <DTOFee id="Fee-571682218-1725620188" CategoryCd="SLT" TypeCd="Tax" Description="Surplus Lines Tax" FullTermAmt="0.00" WrittenAmt="0.00" FinalAmt="0.00" CommissionPct="100.00" ContributionPct="0.00" CommissionAmt="0.00" PrevFinalAmt="0.00" PrevWrittenAmt="0.00" TransactionCommissionAmt="2078.70" Status="Active" BillingCategoryCd="SLT" ShortRateAmt="0.00" RateDRCFeeInd="Yes">
+        <DTOSteps id="Steps-Fee-571682218-1725620188">
+            <DTOStep id="Step-Fee-571682218-1725620188-SurplusLinesTax" Name="Surplus Lines Tax" Operation="=" Factor="2078.70" Value="2078.70" Status="Cleared"/>
+        </DTOSteps>
+    </DTOFee>
+    <DTOForm id="Form-1029474298-1271567712" Status="Attached" Name="CISGL30011017" FormNum="CIS GL 30 01" FormEdition="10/17" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="001860" FillinInd="No" ProductFormIdRef="CISGL30011017" DisplayDesc="EXCLUSION - BANNED SUBSTANCES" DeclarationFormListName="EXCLUSION - BANNED SUBSTANCES"/>
+    <DTOForm id="Form-1986580488-321773112" Status="Attached" Name="CISCP99110620" FormNum="CIS CP 99 11" FormEdition="06/20" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002780" FillinInd="No" ProductFormIdRef="CISCP99110620" DisplayDesc="PROTECTIVE SAFEGUARDS" DeclarationFormListName="PROTECTIVE SAFEGUARDS"/>
+    <DTOForm id="Form-1251469552-1432946007" Status="Attached" Name="CISDISCLOSURETRIA0621" FormNum="CIS DISCLOSURE TRIA" FormEdition="06/21" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Common" LevelCd="Policy" Order="001130" FillinInd="No" ProductFormIdRef="CISDISCLOSURETRIA0621" DisplayDesc="DISCLOSURE PURSUANT TO TERRORISM RISK INSURANCE ACT" DeclarationFormListName="DISCLOSURE PURSUANT TO TERRORISM RISK INSURANCE ACT"/>
+    <DTOForm id="Form-1697740642-412133858" Status="Attached" Name="CISGL34670520" FormNum="CIS GL 34 67" FormEdition="05/20" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002045" FillinInd="No" ProductFormIdRef="CISGL34670520" DisplayDesc="EXCLUSION - COMMUNICABLE DISEASE" DeclarationFormListName="EXCLUSION - COMMUNICABLE DISEASE"/>
+    <DTOForm id="Form-1832190568-1886118180" Status="Attached" Name="CISGLNBCR0520" FormNum="CIS GL NBCR" FormEdition="05/20" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="002065" FillinInd="No" ProductFormIdRef="CISGLNBCR0520" DisplayDesc="EXCLUSION - NUCLEAR, BIOLOGICAL, BIO-CHEMICAL, CHEMICAL AND RADIATION" DeclarationFormListName="EXCLUSION - NUCLEAR, BIOLOGICAL, BIO-CHEMICAL, CHEMICAL AND RADIATION"/>
+    <DTOForm id="Form-512692780-55404454" Status="Attached" Name="CISCP99320520" FormNum="CIS CP 99 32" FormEdition="05/20" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002800" FillinInd="No" ProductFormIdRef="CISCP99320520" DisplayDesc="EXCLUSION - COMMUNICABLE DISEASE" DeclarationFormListName="EXCLUSION - COMMUNICABLE DISEASE"/>
+    <DTOForm id="Form-1177424869-1776527557" Status="Attached" Name="IL09520115" FormNum="IL 09 52" FormEdition="01/15" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="001160" FillinInd="No" ProductFormIdRef="IL09520115" DisplayDesc="CAP ON LOSSES FROM CERTIFIED ACTS OF TERRORISM" DeclarationFormListName="CAP ON LOSSES FROM CERTIFIED ACTS OF TERRORISM"/>
+    <DTOForm id="Form-253479335-1736703925" Status="Attached" Name="CISCP99120620" FormNum="CIS CP 99 12" FormEdition="06/20" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002785" FillinInd="No" ProductFormIdRef="CISCP99120620" DisplayDesc="PROTECTIVE SAFEGUARDS SUPPLEMENTAL SCHEDULE" DeclarationFormListName="PROTECTIVE SAFEGUARDS SUPPLEMENTAL SCHEDULE"/>
+    <DTOForm id="Form-1367636379-626345710" Status="Attached" Name="CISCP99500220" FormNum="CIS CP 99 50" FormEdition="02/20" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002770" FillinInd="No" ProductFormIdRef="CISCP99500220" DisplayDesc="EXPANDED PROPERTY ENDORSEMENT" DeclarationFormListName="EXPANDED PROPERTY ENDORSEMENT"/>
+    <DTOForm id="Form-1951593746-206881402" Status="Attached" Name="CISCP10380220" FormNum="CIS CP 10 38" FormEdition="02/20" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="002850" FillinInd="No" ProductFormIdRef="CISCP10380220" DisplayDesc="DISCHARGE FROM SEWER, DRAIN OR SUMP (NOT FLOOD-RELATED)" DeclarationFormListName="DISCHARGE FROM SEWER, DRAIN OR SUMP (NOT FLOOD-RELATED)"/>
+    <DTOForm id="Form-1343544972-579741990" Status="Attached" Name="CISCPMAX030621" FormNum="CIS CP MAX 03" FormEdition="06/21" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Property" LevelCd="Policy" Order="001270" FillinInd="No" ProductFormIdRef="CISCPMAX030621" DisplayDesc="MAXIMUM LOSS ANY ONE OCCURRENCE" DeclarationFormListName="MAXIMUM LOSS ANY ONE OCCURRENCE"/>
+    <DTOForm id="Form-1551253528-121830101" Status="Attached" Name="CISCYBER60010921" FormNum="CIS CYBER 60 01" FormEdition="09/21" IncludeInFormListInd="Yes" PrintInd="Yes" AreaCd="Liability" LevelCd="Policy" Order="003470" FillinInd="No" ProductFormIdRef="CISCYBER60010921" DisplayDesc="CYBER LIABILITY ENDORSEMENT" DeclarationFormListName="CYBER LIABILITY ENDORSEMENT"/>
+    <Output id="Output-2069449423-1911538189" DocumentType="Correspondence" OutputTemplateIdRef="CNPK-Quotation" OutputNumber="1" TransactionNumber="1" AddUser="rraju" AddDt="20211117" AddTm="16:18:27 PST" Status="Processed">
+        <Tag id="Tag-607966161-2061242170" Name="Correspondence" TagTemplateIdRef="Correspondence"/>
+        <QuestionReplies id="QuestionReplies-1925686037-1368049154" QuestionSourceMDA="correspondence-template::CorrespondenceTemplate::CNPK-Quotation">
+            <QuestionReply id="QuestionReply-223263412-307734756" Name="AccountManagerName" Value="Ranjith Raju" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1011513004-1830775719" Name="PhoneNumber" Value="6698878786" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-368900010-977501561" Name="EmailAddress" Value="rrajufdfd@gmail.com" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1431540619-1124571349" Name="LICENSE" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-825517752-280849746" Name="LOSSRUNS" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1497070341-637899207" Name="LABELS" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-873869849-1337597492" Name="APPLICATION" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1297852309-1205505104" Name="SURPLUSLINESSTATEFORM" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1121581128-1561138585" Name="INSPECTIONREQUIRED" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1308260002-1590811457" Name="TRIA" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1405580139-1716716887" Name="SIGNEDBINDDOCS" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-2013405273-685373387" Name="Other" VisibleInd="Yes"/>
+        </QuestionReplies>
+        <OutputItem id="OutputItem-2146498082-718227974" IncludeInd="Yes" ItemName="Producer" ItemDescription="Producer Quotation" Name="Producer" DeliveryCd="LocalPrinter" DefaultInd="Yes" MergeFileURL="24088" FormURL="24089" MailProofCd="None" CoversheetFormTemplateIdRef="Coversheet" OutputTemplateRecipientIdRef="Producer-CNPK-Quotation" NumSimplexPrintPages="0" NumDuplexPrintPages="0" DocumentTypeCd="Correspondence" PrintEngineCd="TOPAHPExtream">
+            <PartyInfo id="PartyInfo-1526338895-574859732" PartyTypeCd="OutputProviderParty" Code="9191-929-9115">
+                <EmailInfo id="EmailInfo-1523232617-176509260" EmailTypeCd="OutputProviderEmail" PreferredInd="No"/>
+                <TaxInfo id="TaxInfo-14642494-1072523768" TaxTypeCd="OutputProviderTaxInfo" LegalEntityCd="LLC"/>
+                <PhoneInfo id="PhoneInfo-819148939-284954860" PhoneTypeCd="OutputProviderPrimaryPhone" PreferredInd="No"/>
+                <NameInfo id="NameInfo-1806772560-1061629815" NameTypeCd="OutputProviderName" CommercialName="Cann UW3"/>
+                <Addr id="Addr-377053044-1718769191" AddrTypeCd="OutputProviderMailingAddr"/>
+                <PhoneInfo id="PhoneInfo-74123280-38908797" PhoneTypeCd="OutputProviderSecondaryPhone" PreferredInd="No"/>
+                <PhoneInfo id="PhoneInfo-1578098364-708343860" PhoneTypeCd="OutputProviderFax" PreferredInd="No"/>
+                <Addr id="Addr-1993330411-2030719252" AddrTypeCd="OutputProviderBillingAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+                <Addr id="Addr-1506843319-809545825" AddrTypeCd="OutputProviderStreetAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+            </PartyInfo>
+        </OutputItem>
+        <Tag id="Tag-561015252-903338217" Name="Quotation" TagTemplateIdRef="Quotation"/>
+    </Output>
+    <Output id="Output-1131708213-233025397" DocumentType="Correspondence" OutputTemplateIdRef="CNPK-Quotation" OutputNumber="2" TransactionNumber="1" AddUser="rraju" AddDt="20211118" AddTm="12:41:13 PST" Status="Processed">
+        <Tag id="Tag-695888221-467161220" Name="Correspondence" TagTemplateIdRef="Correspondence"/>
+        <QuestionReplies id="QuestionReplies-1252579818-2107671330" QuestionSourceMDA="correspondence-template::CorrespondenceTemplate::CNPK-Quotation">
+            <QuestionReply id="QuestionReply-1101735537-435205495" Name="AccountManagerName" Value="Ranjith Raju" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-170658500-269244610" Name="PhoneNumber" Value="6698878784" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-135031836-348859239" Name="EmailAddress" Value="rrajufdfd@gmail.com" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-2119923984-216261713" Name="LICENSE" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1734612317-716806853" Name="LOSSRUNS" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-252704123-475879847" Name="LABELS" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1540651404-1029554049" Name="APPLICATION" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1300836732-997181707" Name="SURPLUSLINESSTATEFORM" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1125109747-327078308" Name="INSPECTIONREQUIRED" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-393744486-1377481747" Name="TRIA" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1868007924-180459083" Name="SIGNEDBINDDOCS" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1567448149-1523634631" Name="Other" VisibleInd="Yes"/>
+        </QuestionReplies>
+        <OutputItem id="OutputItem-196453307-1490452429" IncludeInd="Yes" ItemName="Producer" ItemDescription="Producer Quotation" Name="Producer" DeliveryCd="LocalPrinter" DefaultInd="Yes" MergeFileURL="24210" FormURL="24211" MailProofCd="None" CoversheetFormTemplateIdRef="Coversheet" OutputTemplateRecipientIdRef="Producer-CNPK-Quotation" NumSimplexPrintPages="0" NumDuplexPrintPages="0" DocumentTypeCd="Correspondence" PrintEngineCd="TOPAHPExtream">
+            <PartyInfo id="PartyInfo-92069669-603069514" PartyTypeCd="OutputProviderParty" Code="9191-929-9115">
+                <EmailInfo id="EmailInfo-2125626352-368139260" EmailTypeCd="OutputProviderEmail" PreferredInd="No"/>
+                <TaxInfo id="TaxInfo-1981234064-1161066836" TaxTypeCd="OutputProviderTaxInfo" LegalEntityCd="LLC"/>
+                <PhoneInfo id="PhoneInfo-674559993-923105208" PhoneTypeCd="OutputProviderPrimaryPhone" PreferredInd="No"/>
+                <NameInfo id="NameInfo-2021724531-504965614" NameTypeCd="OutputProviderName" CommercialName="Cann UW3"/>
+                <Addr id="Addr-295538411-230265815" AddrTypeCd="OutputProviderMailingAddr"/>
+                <PhoneInfo id="PhoneInfo-2101547418-708968837" PhoneTypeCd="OutputProviderSecondaryPhone" PreferredInd="No"/>
+                <PhoneInfo id="PhoneInfo-1473587440-372457206" PhoneTypeCd="OutputProviderFax" PreferredInd="No"/>
+                <Addr id="Addr-1931031147-1240288164" AddrTypeCd="OutputProviderBillingAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+                <Addr id="Addr-922843329-944387161" AddrTypeCd="OutputProviderStreetAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+            </PartyInfo>
+        </OutputItem>
+        <Tag id="Tag-1117842229-1832903145" Name="Quotation" TagTemplateIdRef="Quotation"/>
+    </Output>
+    <Output id="Output-800143673-1562539867" DocumentType="Correspondence" OutputTemplateIdRef="CNPK-Quotation" OutputNumber="3" TransactionNumber="1" AddUser="rraju" AddDt="20211119" AddTm="16:05:07 PST" Status="Processed">
+        <Tag id="Tag-26796746-312655586" Name="Correspondence" TagTemplateIdRef="Correspondence"/>
+        <QuestionReplies id="QuestionReplies-1149668046-1784379936" QuestionSourceMDA="correspondence-template::CorrespondenceTemplate::CNPK-Quotation">
+            <QuestionReply id="QuestionReply-896105106-1318455250" Name="AccountManagerName" Value="Ranjith Raju" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-701873864-1931428362" Name="PhoneNumber" Value="6698878784" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-224140049-1930049023" Name="EmailAddress" Value="rrajufdfd@gmail.com" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-2007885480-2116805957" Name="LICENSE" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-331545858-826644296" Name="LOSSRUNS" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-692432750-140867278" Name="LABELS" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-206282797-296327483" Name="APPLICATION" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-353594047-912506325" Name="SURPLUSLINESSTATEFORM" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1744316924-977601657" Name="INSPECTIONREQUIRED" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-881706780-531323213" Name="TRIA" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-968504461-726571279" Name="SIGNEDBINDDOCS" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1906384477-872763413" Name="Other" VisibleInd="Yes"/>
+        </QuestionReplies>
+        <OutputItem id="OutputItem-1076530592-1608259776" IncludeInd="Yes" ItemName="Producer" ItemDescription="Producer Quotation" Name="Producer" DeliveryCd="LocalPrinter" DefaultInd="Yes" MergeFileURL="24328" FormURL="24329" MailProofCd="None" CoversheetFormTemplateIdRef="Coversheet" OutputTemplateRecipientIdRef="Producer-CNPK-Quotation" NumSimplexPrintPages="0" NumDuplexPrintPages="0" DocumentTypeCd="Correspondence" PrintEngineCd="TOPAHPExtream">
+            <PartyInfo id="PartyInfo-1961419771-1622882123" PartyTypeCd="OutputProviderParty" Code="9191-929-9115">
+                <EmailInfo id="EmailInfo-1395303447-1812966570" EmailTypeCd="OutputProviderEmail" PreferredInd="No"/>
+                <TaxInfo id="TaxInfo-1598778859-1718818854" TaxTypeCd="OutputProviderTaxInfo" LegalEntityCd="LLC"/>
+                <PhoneInfo id="PhoneInfo-1618940643-1896126650" PhoneTypeCd="OutputProviderPrimaryPhone" PreferredInd="No"/>
+                <NameInfo id="NameInfo-1973720900-191366142" NameTypeCd="OutputProviderName" CommercialName="Cann UW3"/>
+                <Addr id="Addr-328786042-1183607803" AddrTypeCd="OutputProviderMailingAddr"/>
+                <PhoneInfo id="PhoneInfo-398711513-1560235052" PhoneTypeCd="OutputProviderSecondaryPhone" PreferredInd="No"/>
+                <PhoneInfo id="PhoneInfo-145816825-767991207" PhoneTypeCd="OutputProviderFax" PreferredInd="No"/>
+                <Addr id="Addr-609914836-48380255" AddrTypeCd="OutputProviderBillingAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+                <Addr id="Addr-221928142-344507755" AddrTypeCd="OutputProviderStreetAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+            </PartyInfo>
+        </OutputItem>
+        <Tag id="Tag-37018165-688705583" Name="Quotation" TagTemplateIdRef="Quotation"/>
+    </Output>
+    <Output id="Output-1816034974-377524045" DocumentType="Correspondence" OutputTemplateIdRef="Cannasure-RFAI" OutputNumber="4" TransactionNumber="1" AddUser="rraju" AddDt="20211119" AddTm="16:11:22 PST" Status="Processed">
+        <Tag id="Tag-839642325-1217776725" Name="Correspondence" TagTemplateIdRef="Correspondence"/>
+        <QuestionReplies id="QuestionReplies-2054365871-2033334535" QuestionSourceMDA="correspondence-template::CorrespondenceTemplate::Cannasure-RFAI">
+            <QuestionReply id="QuestionReply-1081754058-28448331" Name="UnderwriterName" Value="Denise Pavlov" VisibleInd="Yes"/>
+            <QuestionReply id="QuestionReply-1693872872-321638190" Name="Other" VisibleInd="Yes"/>
+        </QuestionReplies>
+        <OutputItem id="OutputItem-101542442-1333438075" IncludeInd="Yes" ItemName="Producer" ItemDescription="Producer Quotation" Name="Producer" DeliveryCd="LocalPrinter" DefaultInd="Yes" MergeFileURL="24330" FormURL="24331" MailProofCd="None" CoversheetFormTemplateIdRef="Coversheet" OutputTemplateRecipientIdRef="Producer-Cannasure-RFAI" NumSimplexPrintPages="0" NumDuplexPrintPages="0" DocumentTypeCd="Correspondence" PrintEngineCd="TOPAHPExtream">
+            <PartyInfo id="PartyInfo-958091174-1420439189" PartyTypeCd="OutputProviderParty" Code="9191-929-9115">
+                <EmailInfo id="EmailInfo-722629403-826360188" EmailTypeCd="OutputProviderEmail" PreferredInd="No"/>
+                <TaxInfo id="TaxInfo-1388600973-1470045382" TaxTypeCd="OutputProviderTaxInfo" LegalEntityCd="LLC"/>
+                <PhoneInfo id="PhoneInfo-1873622917-1423753645" PhoneTypeCd="OutputProviderPrimaryPhone" PreferredInd="No"/>
+                <NameInfo id="NameInfo-605871501-197823716" NameTypeCd="OutputProviderName" CommercialName="Cann UW3"/>
+                <Addr id="Addr-224236295-1069476520" AddrTypeCd="OutputProviderMailingAddr"/>
+                <PhoneInfo id="PhoneInfo-2106370151-587118238" PhoneTypeCd="OutputProviderSecondaryPhone" PreferredInd="No"/>
+                <PhoneInfo id="PhoneInfo-1138416749-200901908" PhoneTypeCd="OutputProviderFax" PreferredInd="No"/>
+                <Addr id="Addr-330226588-1144243505" AddrTypeCd="OutputProviderBillingAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+                <Addr id="Addr-1361002606-369737340" AddrTypeCd="OutputProviderStreetAddr" Addr1="1468 W 9th St" City="Cleveland" StateProvCd="OH" PostalCode="44113" RegionCd="United States" RegionISOCd="US"/>
+            </PartyInfo>
+        </OutputItem>
+        <Tag id="Tag-401296248-1098283784" Name="RFAI" TagTemplateIdRef="RFAI"/>
+    </Output>
+</DTOApplication>
