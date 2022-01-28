@@ -1,0 +1,33 @@
+import org.dom4j.*;
+import java.util.*;
+import java.util.logging.Logger;
+
+Logger logger = Logger.getLogger("");
+
+dtoCoverageStepsNodes = flowVars.domPayload.selectNodes("//DTOCoverage[@Status=\'Active\']/DTOSteps");
+for (Node node : dtoCoverageStepsNodes){
+	//logger.info("inside: detach");
+	node.detach();
+}
+
+dtoCoverageNodes = flowVars.domPayload.selectNodes("//DTOCoverage[@Status=\'Active\']");
+int i = 500;
+for (Node node : dtoCoverageNodes){
+
+	//node.detach();
+	//logger.info("inside: assign prem");
+	node.addAttribute("FullTermAmt", Integer.toString(i));
+
+	node.addElement("DTOSteps");
+
+	stepNode = node.selectSingleNode("DTOSteps");
+	stepNode.addElement("DTOStep")
+		.addAttribute("Order","1")
+		.addAttribute("Name","Final Premium")
+		.addAttribute("Desc","Final Premium Desc")
+		.addAttribute("Operation","=")
+		.addAttribute("Factor",Integer.toString(i))
+		.addAttribute("Value",Integer.toString(i));
+
+	i+=1;
+}
